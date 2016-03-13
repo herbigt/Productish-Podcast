@@ -68,3 +68,5 @@ Content ist ein Problem, welches zu nah an Technik, aber zu weit weg von den üb
 
 16. Planbarkeit von Produktentwicklung
 - Man plant eine Mission zum Nordpol und bestellt zu Datum XX.XX.XXXX um 15:30h schon mal die Presse
+
+17. Design-Tools und deren Rolle in der Produktentwicklung (mit Christophe Stoll von precious)
