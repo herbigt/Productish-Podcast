@@ -5,6 +5,7 @@
 ***
 
 ## Show Notes Episode 24
+24: <fill in topic>
 
 ***
 

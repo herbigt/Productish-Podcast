@@ -18,6 +18,11 @@
 
 ***
 
+## Vorbereitung Episode 24
+### Thema: <fill in fancy topic>
+
+***
+
 ## Vorbereitung Episode 23
 
 ### Thema: Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ die Produktentwicklung
