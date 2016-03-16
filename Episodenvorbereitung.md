@@ -21,6 +21,8 @@
 ## Vorbereitung Episode 24
 ### Thema: <fill in fancy topic>
 
+- **Tim A**:
+
 ***
 
 ## Vorbereitung Episode 23
