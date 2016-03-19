@@ -60,9 +60,9 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 13. Trade-Offs, trade-offs, trade-offs
 Wie entscheidet man zw. Aufwand und Business-Value?
 
-14. „Das haben wir ja so nie gesagt..“
-Entscheidungen treffen und durchhalten
-Gemeinsame Verantwortung fürs Projekt
+14. „**Das haben wir ja so nie gesagt**..“
+**Entscheidungen treffen und durchhalten**
+**Gemeinsame Verantwortung fürs Projekt**
 
 15. Warum CMS ein so schwieriges Problem ist
 Content ist ein Problem, welches zu nah an Technik, aber zu weit weg von den üblichen „Produktentwicklungstools“.

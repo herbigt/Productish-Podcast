@@ -19,7 +19,7 @@
 ***
 
 ## Vorbereitung Episode 24
-### Thema: <fill in fancy topic>
+### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekten
 
 - **Tim A**:
 

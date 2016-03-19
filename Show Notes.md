@@ -5,7 +5,7 @@
 ***
 
 ## Show Notes Episode 24
-24: <fill in topic>
+24: Das haben wir ja so nie gesagt..“ - Gemeinsame Verantwortung in Projekten
 
 ***
 
