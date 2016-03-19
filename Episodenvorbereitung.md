@@ -22,6 +22,11 @@
 ### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekten
 
 - **Tim A**:
+- **Tim H**:
+	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format
+	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)
+	- Wie ist "tec" Perspektive auf diese Diskussionen?
+	- Aufgreifen/behandeln JEDES Änderungswunsches vs. Wegignorieren
 
 ***
 
