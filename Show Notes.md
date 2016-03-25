@@ -7,6 +7,12 @@
 ## Show Notes Episode 24
 24: Das haben wir ja so nie gesagt..“ - Gemeinsame Verantwortung in Projekten
 
+Lorem Ipsum.
+
+http://productish.com/24
+
+-
+
 ***
 
 ## Show Notes Episode 23

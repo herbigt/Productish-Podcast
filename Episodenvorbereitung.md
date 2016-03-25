@@ -8,7 +8,7 @@
 ## Allgemeine Bestandteile
 
 ### Intro
-- Tim stellt Tim und Thema vor
+- Tim H stellt Tim Abund Thema vor
 
 ### Outro
 - Wie hat euch die Show gefallen? Tweet at us!
@@ -23,7 +23,7 @@
 
 - **Tim A**:
 - **Tim H**:
-	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format
+	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format und Entstehung
 	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)
 	- Wie ist "tec" Perspektive auf diese Diskussionen?
 	- Aufgreifen/behandeln JEDES Änderungswunsches vs. Wegignorieren

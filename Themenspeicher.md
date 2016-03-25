@@ -29,7 +29,7 @@ Ein Podcast über die Konflikte und Herausforderungen moderner digitaler Produkt
 Unterschiedliche Sichtweise auf „technical debt“
 Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 
-2. ~~Geschwindigkeit von Produktentwicklung~~
+2. ~~Geschwindigkeit von Produktentwicklungen~~
 
 3. ~~Wegen Detailgrad brauchen Anforderungen? Wann sind Themen „zu tief“ durchdacht~~?
 
