@@ -44,7 +44,7 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 
 7. Differenzierung zw. „Managern“ und „technischen Experten“ wird zunehmend „falscher“.
 
-8. ~~Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ die Produktentwicklung**~~
+8. ~~Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ Produktentwicklung**~~
 
 9. Produktivität vs. „Gas geben“: Wie man sehr geschäftig wirkt, aber kaum von der Stelle kommt
 

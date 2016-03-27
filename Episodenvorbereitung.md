@@ -19,7 +19,7 @@
 ***
 
 ## Vorbereitung Episode 24
-### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekten
+### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekte
 
 - **Tim A**:
 - **Tim H**:
