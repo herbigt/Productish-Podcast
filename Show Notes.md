@@ -19,7 +19,7 @@ http://productish.com/24
 
 23: Produktentwicklung in Life-Style vs. Venture-Companies
 
-In der heutigen Episode diskutieren wir die unterschiedlichen Auswirkungen, die die Wahl der Firmenform auf die Produktentwicklung haben können. Im besonderen vergleichen wir VC-finanzierte Firmen mit so genannten Lifestyle Companies und versuchend dabei herauszuarbeiten, welche Attribute sich die beiden Wege voneinander abgucken können.
+In der heutigen Episode diskutieren wir die unterschiedlichen Auswirkungen, die die Wahl der Firmenform auf die Produktentwicklung haben können. Im besonderen vergleichen wir VC finanzierte Firmen mit so genannten Lifestyle Companies und versuchend dabei herauszuarbeiten, welche Attribute sich die beiden Wege voneinander abgucken können.
 
 http://productish.com/23
 

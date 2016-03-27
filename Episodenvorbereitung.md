@@ -14,7 +14,7 @@
 - Wie hat euch die Show gefallen? Tweet at us!
 - @herbigt auf Twitter, @toadle auf Twitter und @ProductishFM auf Twitter
 - Webseite angucken für die kommenden Folgen/Themen
-- 5 Sterne auf iTunes geben
+- Min. 5 Sterne auf iTunes geben
 
 ***
 
