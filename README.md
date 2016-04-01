@@ -11,4 +11,4 @@
 - Es gibt ein File für den Themenspeicher, für die Episodenvorbereitung und für die Show Notes
 - Für jede kommende Episode ab 24 wird ein neuer Branch angelegt, in dem die jeweiligen Inhalte eingepflegt werden können
 - Nach der Aufzeichnung wird der Branch in den Master gemerged
-- Repeat
+- Repeat it
