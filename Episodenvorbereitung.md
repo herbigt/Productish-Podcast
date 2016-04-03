@@ -22,7 +22,7 @@
 
 ### Thema: Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ die Produktentwicklung
 
-- Erstmal: Definition VC und Lifestyle-Company klären!!!
+- Erstmal: Definition VC und Lifestyle-Company klären!
 
 - **Tim A**:
 	- Position/Statement:
@@ -32,7 +32,7 @@
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- VC: App-Bau
 		- VC: Internationalisierung
-		- VC: Infrastrukturmaßnahmen, obwohl nicht geschäftskritisch
+		- VC: Infrastrukturmaßnahmen obwohl nicht geschäftskritisch
 		- Life-Style: qualitize.de
 		- Life-Style: "Nachbarschaftshilfe"
 		- Life-Style: Kiss No Frog
