@@ -8,7 +8,7 @@
 ## Allgemeine Bestandteile
 
 ### Intro
-- Tim H stellt Tim Abund Thema vor
+- Tim H stellt Tim A und Thema vor
 
 ### Outro
 - Wie hat euch die Show gefallen? Tweet at us!
@@ -29,7 +29,7 @@
       - Auftraggebertrick: So lange kleine Unsauberkeiten finden, bis man das Projekte abbrechen oder eskalieren kann
       - Auftragnehmertrick: Jede zusätzliche Kleinigkeit als CR
       - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?) 
-      - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft FEedback: Macht Entwicklung SEHR langsam, frustriert ein Team
+      - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft Feedback: Macht Entwicklung SEHR langsam, frustriert ein Team
 - **Tim H**:
 	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format und Entstehung
 	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)

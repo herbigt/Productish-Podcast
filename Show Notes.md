@@ -11,7 +11,8 @@ Lorem Ipsum.
 
 http://productish.com/24
 
--
+- [Auftragsklärung](http://produktfuehrung.de/de/framework-no-9-auftragsklarung/)
+- 
 
 ***
 
