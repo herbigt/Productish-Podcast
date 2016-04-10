@@ -8,13 +8,13 @@
 24: Gemeinsame Verantwortung in Projekten
 
 In der 24. Episode des Productish-Podcasts besprechen wir wie verteilte und damit gemeinsamer Verantwortung in Softwareprojekten gelingen kann. Dabei geht es sowohl um Konstellationen mit gleichrangingen Teilnehmern als auch involviertem upper Management.
-In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden koennen
+In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden können. 
 
 http://productish.com/24
 
 - [Auftragsklärung](http://produktfuehrung.de/de/framework-no-9-auftragsklarung/)
-- [Tim Herbig auf Twitter](http)
-- Tim Adler auf Twitter
+- [Tim Herbig auf Twitter](http://twitter.com/herbigt)
+- [Tim Adler auf Twitter](http://twitter.com/toadle)
 
 ***
 
