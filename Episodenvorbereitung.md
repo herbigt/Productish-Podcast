@@ -8,13 +8,34 @@
 ## Allgemeine Bestandteile
 
 ### Intro
-- Tim stellt Tim und Thema vor
+- Tim H stellt Tim A und Thema vor
 
 ### Outro
 - Wie hat euch die Show gefallen? Tweet at us!
 - @herbigt auf Twitter, @toadle auf Twitter und @ProductishFM auf Twitter
 - Webseite angucken für die kommenden Folgen/Themen
-- Mindestens 5 Sterne auf iTunes geben
+- Min. 5 Sterne auf iTunes geben
+
+***
+
+## Vorbereitung Episode 24
+### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekte
+
+- **Tim A**:
+      - Klassisches Problem von vielen: Projekte kann man nicht selber umsetzen, deshalb sucht man jemand "externen". Etabliert automatisch die Auftragnehmern/Auftraggeberhaltung. Begründet "Ansprüche". Deswegen extrem schädlich
+      - Outsourcing ist nicht zeitgemäß, zumindest von der EInstellung her. 
+      - Man bucht Scherpas, aber die Expedition macht man zusammen
+      - Entwicklertrick: So lange drüber reden, bis man genug Ausnahmen produziert hat, dass sich ein Feature nicht umsetzen lässt, weil zu teuer -> Keine gemeinsame VA
+      - Auftraggebertrick: So lange kleine Unsauberkeiten finden, bis man das Projekte abbrechen oder eskalieren kann
+      - Auftragnehmertrick: Jede zusätzliche Kleinigkeit als CR
+      - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?) 
+      - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft Feedback: Macht Entwicklung SEHR langsam, frustriert ein Team
+- **Tim H**:
+	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format und Entstehung
+	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)
+	- Wie ist "tec" Perspektive auf diese Diskussionen?
+	- Aufgreifen/behandeln JEDES Änderungswunsches vs. Wegignorieren
+>>>>>>> bf457c93b6e1b7c9c0ad2ddfbfc55ed93b06e220
 
 ***
 

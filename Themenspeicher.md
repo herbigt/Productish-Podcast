@@ -29,7 +29,7 @@ Ein Podcast über die Konflikte und Herausforderungen moderner digitaler Produkt
 Unterschiedliche Sichtweise auf „technical debt“
 Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 
-2. ~~Geschwindigkeit von Produktentwicklung~~
+2. ~~Geschwindigkeit von Produktentwicklungen~~
 
 3. ~~Wegen Detailgrad brauchen Anforderungen? Wann sind Themen „zu tief“ durchdacht~~?
 
@@ -44,7 +44,7 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 
 7. Differenzierung zw. „Managern“ und „technischen Experten“ wird zunehmend „falscher“.
 
-8. ~~Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ die Produktentwicklung**~~
+8. ~~Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ Produktentwicklung**~~
 
 9. Produktivität vs. „Gas geben“: Wie man sehr geschäftig wirkt, aber kaum von der Stelle kommt
 
@@ -60,9 +60,9 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 13. Trade-Offs, trade-offs, trade-offs
 Wie entscheidet man zw. Aufwand und Business-Value?
 
-14. „Das haben wir ja so nie gesagt..“
-Entscheidungen treffen und durchhalten
-Gemeinsame Verantwortung fürs Projekt
+14. „**Das haben wir ja so nie gesagt**..“
+**Entscheidungen treffen und durchhalten**
+**Gemeinsame Verantwortung fürs Projekt**
 
 15. Warum CMS ein so schwieriges Problem ist
 Content ist ein Problem, welches zu nah an Technik, aber zu weit weg von den üblichen „Produktentwicklungstools“.
