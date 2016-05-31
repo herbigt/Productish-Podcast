@@ -8,7 +8,7 @@
 24: Gemeinsame Verantwortung in Projekten
 
 In der 24. Episode des Productish-Podcasts besprechen wir wie verteilte und damit gemeinsamer Verantwortung in Softwareprojekten gelingen kann. Dabei geht es sowohl um Konstellationen mit gleichrangingen Teilnehmern als auch involviertem upper Management.
-In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden können. 
+In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden können.
 
 http://productish.com/24
 
@@ -43,7 +43,7 @@ http://productish.com/23
 
 22: Die Unfähigkeit zu Priorisieren
 
-In der ersten Productish Episode 2016 besprechen wir das Thema Priorisierung. Sowohl aus der Sicht eines Engineers, als auch eines Product Owners wird man oft mit Entscheidungen an Weggabelungen konfrontiert.  
+In der ersten Productish Episode 2016 besprechen wir das Thema Priorisierung. Sowohl aus der Sicht eines Engineers, als auch eines POs wird man oft mit Entscheidungen an Weggabelungen konfrontiert.  
 Dabei bringen wir die Perspektiven von sich gerade erst am Anfang befindlichen Start-ups und etablierten Product Teams in einem großen Stakeholder-Kosmos zusammen.
 
 http://productish.com/22
