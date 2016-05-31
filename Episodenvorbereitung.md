@@ -23,19 +23,18 @@
 
 - **Tim A**:
       - Klassisches Problem von vielen: Projekte kann man nicht selber umsetzen, deshalb sucht man jemand "externen". Etabliert automatisch die Auftragnehmern/Auftraggeberhaltung. Begründet "Ansprüche". Deswegen extrem schädlich
-      - Outsourcing ist nicht zeitgemäß, zumindest von der EInstellung her. 
+      - Outsourcing ist nicht zeitgemäß, zumindest von der EInstellung her.
       - Man bucht Scherpas, aber die Expedition macht man zusammen
       - Entwicklertrick: So lange drüber reden, bis man genug Ausnahmen produziert hat, dass sich ein Feature nicht umsetzen lässt, weil zu teuer -> Keine gemeinsame VA
       - Auftraggebertrick: So lange kleine Unsauberkeiten finden, bis man das Projekte abbrechen oder eskalieren kann
       - Auftragnehmertrick: Jede zusätzliche Kleinigkeit als CR
-      - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?) 
+      - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?)
       - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft Feedback: Macht Entwicklung SEHR langsam, frustriert ein Team
 - **Tim H**:
 	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format und Entstehung
 	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)
 	- Wie ist "tec" Perspektive auf diese Diskussionen?
 	- Aufgreifen/behandeln JEDES Änderungswunsches vs. Wegignorieren
->>>>>>> bf457c93b6e1b7c9c0ad2ddfbfc55ed93b06e220
 
 ***
 
@@ -108,8 +107,8 @@
 - Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Formulierung des Ziels inkl. erwartetem Outcome des Epics oder der einzelnen Story - Früher Tendenz zum Aufschreiben von **allem** gehabt, jetzt mehr zurückgelehnt und Team Aufgabe lösen lassen —> Ohnehin schon genug detailierter Input von ID & VD im Ticket
 
 - Was ist eigentlich gemeint?
-- „Fallhöhe“ bedenken: Von der Vision, zur Anforderung zur Umsetzung 
-- Validieren von Anforderung 
+- „Fallhöhe“ bedenken: Von der Vision, zur Anforderung zur Umsetzung
+- Validieren von Anforderung
 - Bester Effizienzbringer: Anforderung ist genau dem richtigen Detailgrad
 
 ***
@@ -118,7 +117,7 @@
 
 ### Thema: Schnell vs. Nachhaltig - Wir gelingt der Spagat zw. Skalierbarkeit und Geschwindigkeit
 
-- Position/Statement Tim A. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Underengeneering - Wordpress, Overengeneering - Algorhythmus statt manuell 
+- Position/Statement Tim A. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Underengeneering - Wordpress, Overengeneering - Algorhythmus statt manuell
 - Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Diskssion, wie skaliebar und wiederverwertbar „etwas“ jetzt gebaut werden muss, wenn man tatsächliches Potential noch gar nicht kennt und Produkt sich erst noch beweisen muss?
 —> man kann doch gar nicht alle zukünftigen Einsatzzwecke antizipieren?
 

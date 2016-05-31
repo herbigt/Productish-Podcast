@@ -8,7 +8,7 @@
 24: Gemeinsame Verantwortung in Projekten
 
 In der 24. Episode des Productish-Podcasts besprechen wir wie verteilte und damit gemeinsamer Verantwortung in Softwareprojekten gelingen kann. Dabei geht es sowohl um Konstellationen mit gleichrangingen Teilnehmern als auch involviertem upper Management.
-In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden können. 
+In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine Projekt erfolgreich ist und wie unterwegs entstehende Konflikte gemanaged werden können.
 
 http://productish.com/24
 
@@ -22,9 +22,7 @@ http://productish.com/24
 
 23: Produktentwicklung in Life-Style vs. Venture-Companies
 
-
 In der heutigen Episode diskutieren wir die unterschiedlichen Auswirkungen, die die Wahl der Firmenform auf die Produktentwicklung haben können. Im besonderen vergleichen wir VC finanzierte Firmen mit so genannten Lifestyle Companies und versuchend dabei herauszuarbeiten, welche Attribute sich die beiden Wege voneinander abgucken können.
-
 
 http://productish.com/23
 
