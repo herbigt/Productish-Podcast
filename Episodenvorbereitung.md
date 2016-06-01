@@ -34,7 +34,9 @@
 		- Deshalb man muss ins Customizing einsteigen: Das geht wiederum nur bis zu dem Punkt, wo man die Software so stark verbiegen muss, dass die Prozesse sich abbilden lassen
 		- Plötzlich brauchs dann doch Individualsoftware oder eine Software, die sich einfacher customizen lässt (salesforce, SAP, Pipedrive)
 - Tim H:
-	- 
+	- IT wie in Internal IT aka helpdesk oder SiteOps/Architekten?
+	- Größte Start-up Fehler in Infrastruktur?
+	- Selber immer das Gefühl von zu verkopft - "noch n server hoch bei aws und fertig...oder?"
 ***
 
 ## Vorbereitung Episode 24
