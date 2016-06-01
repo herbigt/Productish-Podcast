@@ -8,7 +8,17 @@
 ## Show Notes Episode 25 
 Bootstrapping - Standardsoftware vs. Individualsoftware
 
-Lorem
+- [Pipedrive](https://www.pipedrive.com/de/)
+- [Impala](http://useimpala.com)
+- [Alexander Graf](http://www.kassenzone.de)
+- [einhorn](https://einhorn.my)
+- [Einhorn im kassenzone.de-Interview](https://soundcloud.com/kassenzone/einhorn-kondome-mehr-kassenzonede-interview-mit-philip-siefer)
+- [lightspeed Shopsystem](https://www.lightspeedhq.de)
+- [AWS Activate](https://aws.amazon.com/de/activate/)
+- [Dropbox-Umzug von AWS](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
+- [Spotify Move to Google Cloud](http://www.forbes.com/sites/alexkonrad/2016/02/29/why-spotify-really-chose-google-cloud/#6857ef551eed)
+- [Inside Apple’s Cloud Infrastructure Troubles](https://www.theinformation.com/inside-apples-cloud-infrastructure-troubles)
+- 
 
 ***
 
