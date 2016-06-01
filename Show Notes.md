@@ -4,6 +4,14 @@
 
 ***
 
+
+## Show Notes Episode 25 
+Bootstrapping - Standardsoftware vs. Individualsoftware
+
+Lorem
+
+***
+
 ## Show Notes Episode 24
 24: Gemeinsame Verantwortung in Projekten
 
