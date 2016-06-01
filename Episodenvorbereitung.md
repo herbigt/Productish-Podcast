@@ -17,6 +17,16 @@
 - Min. 5 Sterne auf iTunes geben
 
 ***
+## Vorbereitung Episode 25
+### Deine Prozesse sehen aus wie Deine IT und umgekehrt 
+
+- Wenn Du Deine IT änderst, müssen sich Deine Prozesse ändern
+- Ändern sich Deine Prozesse, musst Du an Deine IT denken
+- Tim A:
+	- 
+- Tim H:
+	- 
+***
 
 ## Vorbereitung Episode 24
 ### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekte
