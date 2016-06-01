@@ -8,6 +8,11 @@
 ## Show Notes Episode 25 
 Bootstrapping - Standardsoftware vs. Individualsoftware
 
+In der 25. Episode des Productish-Podcasts reden wir über die Stolpersteine von zu viel Individualisierung von Software direkt zum Start, wiederum zu hohen Switching Costs ab einer bestimmten Skalierungsstufe und der Relation von Unternehmensprozessen und der eingesetzten Software.
+In dem Kontext kommen wir auch auf die Einfachheit von WooCommerce für Kondom-Shops zu sprechen und warum AWS einfach für so ziemlich jeden geeignet ist.
+
+http://productish.com/25
+
 - [Pipedrive](https://www.pipedrive.com/de/)
 - [Impala](http://useimpala.com)
 - [Alexander Graf](http://www.kassenzone.de)
