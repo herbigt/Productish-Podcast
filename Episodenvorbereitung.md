@@ -18,12 +18,21 @@
 
 ***
 ## Vorbereitung Episode 25
-### Deine Prozesse sehen aus wie Deine IT und umgekehrt 
+### Bootstrapping - Standardsoftware vs. Individualsoftware
 
 - Wenn Du Deine IT änderst, müssen sich Deine Prozesse ändern
 - Ändern sich Deine Prozesse, musst Du an Deine IT denken
 - Tim A:
-	- 
+	- Deine Prozesse sehen aus wie Deine IT und umgekehrt
+	- Grundsätzlich gilt für mich: Business-IT ist ein Prozess-Gestalter / Unterstützer 
+	- Menschen sind deswegen auch so unfähig einfach neue Software anzunehmen:
+		- Bedienung ist neu und anders: Neu Lernen
+		- Aber gerade im Team: Immer der Versuch bestehende Prozesse auf eine neue Software zu applizieren
+	- Deshalb für Bootstrapping (zumindest im Startup-Umfeld) auch eine Standard-Software nicht schlecht: Schnell & Bringt Prozesse mit
+	- Aber schwierig: So lange es von der Stange kommt, gibts keinen Competitive Advantage: Das kann jeder schnell kopieren
+		- Prozesse sind schwer kopierbar: Siehe Apple
+		- Deshalb man muss ins Customizing einsteigen: Das geht wiederum nur bis zu dem Punkt, wo man die Software so stark verbiegen muss, dass die Prozesse sich abbilden lassen
+		- Plötzlich brauchs dann doch Individualsoftware oder eine Software, die sich einfacher customizen lässt (salesforce, SAP, Pipedrive)
 - Tim H:
 	- 
 ***
