@@ -53,7 +53,7 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 11. Wenn Du produzierst und nicht reproduziert hast Du ein Architektur Problem
 - Gute Systemarchitektur entsteht durch klare „Zweckdefinition“
 
-12. Deine Prozesse sehen aus wie Deine IT und umgekehrt
+12. ~~Deine Prozesse sehen aus wie Deine IT und umgekehrt~~
 - Wenn Du Deine IT änderst, müssen sich Deine Prozesse ändern
 - Ändern sich Deine Prozesse, musst Du an Deine IT denken
 
