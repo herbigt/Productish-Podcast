@@ -17,7 +17,7 @@ http://productish.com/25
 - [Impala](http://useimpala.com)
 - [Alexander Graf](http://www.kassenzone.de)
 - [einhorn](https://einhorn.my)
-- [Einhorn im kassenzone.de-Interview](https://soundcloud.com/kassenzone/einhorn-kondome-mehr-kassenzonede-interview-mit-philip-siefer)
+- [Philip Siefer im kassenzone.de-Interview](https://soundcloud.com/kassenzone/einhorn-kondome-mehr-kassenzonede-interview-mit-philip-siefer)
 - [lightspeed Shopsystem](https://www.lightspeedhq.de)
 - [AWS Activate](https://aws.amazon.com/de/activate/)
 - [Dropbox-Umzug von AWS](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
