@@ -4,6 +4,17 @@
 
 ***
 
+## Show Notes Episode 26
+Manager vs. Technischen Experten - Leadership in Softwareentwicklung
+
+Lorem ipsum.
+
+http://productish.com/26
+
+- lorem
+
+
+***
 
 ## Show Notes Episode 25 
 Bootstrapping - Standardsoftware vs. Individualsoftware
