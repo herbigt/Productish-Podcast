@@ -11,7 +11,10 @@ Lorem ipsum.
 
 http://productish.com/26
 
-- lorem
+- Apple Newsstand
+- Artikel zu Verständnis Agile in Unternehmen?
+- OKRs in Product Development
+- Follow-up Einhorn Kondome
 
 
 ***
