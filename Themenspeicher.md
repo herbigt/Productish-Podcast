@@ -42,7 +42,7 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 6. Alle Features sind erstmal „zu groß“
 „The illusion of simplicity“
 
-7. Differenzierung zw. „Managern“ und „technischen Experten“ wird zunehmend „falscher“.
+7. ~~Differenzierung zw. „Managern“ und „technischen Experten“ wird zunehmend „falscher“.~~
 
 8. ~~Life-Style-Company vs. Venture-Company: Wie beeinflussen die „äußeren Umstände“ Produktentwicklung**~~
 
