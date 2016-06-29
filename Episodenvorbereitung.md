@@ -21,8 +21,16 @@
 ### Manager vs. Technischen Experten - Leadership in Softwareentwicklung
 
 - **Tim A:**
-	- Lorem
-	- Ipsum
+	- Anekdote: Erklären von "Apple Newsstand" vor einem Vorstand / GF-Runde
+	- Es geht bei dem Ganzen vor allem um Effizienz: Wie schnell kommt man zu Entscheidungen? Wie gut sind diese Entscheidungen?
+	- Im durchschnittlichen Unternehmen, ist ein riesiger Teil der Arbeitsprozesse digital
+	- Betrachtet man als "Führungskraft" das als "gestaltbar"? Wenn ja, wie sehr? 
+	- Oder: Ist alles nur "teuer" und kompliziert und nicht Teil der Prozessgestaltung?
+	- Aber auch: Kann ich Führungskraft noch ein Geschäft entwickeln ohne Entscheidungen über digitale Arbeitsbereiche zu treffen?
+	- Digitalgeschäft/IT: Schnell nur ein "Kostenfaktor". Kein echter Effizienzbringer. Produktentwicklung kein Wettbewerbsvorteil. 
+	- Glaube das ist im Silicon Valley anders: Hier ist "mein Produkt" = "mein Prozess" = "mein Mehrwert". Wenn ich dort Entscheidungen treffe, treffe ich "große Produktentscheidungen" und überlasse die Execution den Experten
+	- Als FK muss ich erkennen, dass "Komplexität" (IT/Produktentwicklung) zu managen ist. Details klären andere. Ich muss/darf nur "broad"-strokes vorgeben
+	- Als FK "bin ich den blöden ITlern" völlig ausgeliefert. Die wissen alles besser.
 - **Tim H:**
 	- Was ist wichtiger für eine Führungskraft: Fachliche Kompetenz oder gute People Management Skills? → Abhängig vom Angestellten und dessen Bedürfnissen  
 	- People Management Skills wichtiger um Bedürfnisse von Angestellten erkennen zu können
