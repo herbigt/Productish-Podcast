@@ -15,6 +15,7 @@ http://productish.com/26
 - Artikel zu Verständnis Agile in Unternehmen?
 - OKRs in Product Development
 - Follow-up Einhorn Kondome
+- [Intro to OKRs](http://de.slideshare.net/mobile/blossom_io/okr-objectives-and-key-results-57234123?utm_content=buffer1e935&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 ***
