@@ -17,6 +17,19 @@
 - Min. 5 Sterne auf iTunes geben
 
 ***
+## Vorbereitung Episode 26
+### Manager vs. Technischen Experten - Leadership in Softwareentwicklung
+
+- **Tim A:**
+	- Lorem
+	- Ipsum
+- **Tim H:**
+	- Was ist wichtiger für eine Führungskraft: Fachliche Kompetenz oder gute People Management Skills? → Abhängig vom Angestellten und dessen Bedürfnissen  
+	- People Management Skills wichtiger um Bedürfnisse von Angestellten erkennen zu können
+	- Mit Trust von Angestellten in sich selber als Führungskraft ist es einfacher, fachliche Weiterentwicklung zu fördern, selbst wenn man selber nicht so tief in der Materie ist
+ 
+
+***
 ## Vorbereitung Episode 25
 ### Bootstrapping - Standardsoftware vs. Individualsoftware
 
