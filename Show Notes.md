@@ -7,14 +7,14 @@
 ## Show Notes Episode 26
 Manager vs. Technischen Experten - Leadership in Softwareentwicklung
 
-Lorem ipsum.
+In der 26. Episode von Productish sprechen wir darüber, was eigentlich Leadership in der Softwareentwicklung ausmacht. Von Geeks, die endlich mal vor dem Vorstand präsentieren dürfen, über die unterschiedlichen Perspektiven auf Führung von vertikalen und horizontalen Kollegen bis hin zu OKRs gehen wir dabei auf so einige Themen ein
 
 http://productish.com/26
 
-- Apple Newsstand
-- Artikel zu Verständnis Agile in Unternehmen?
-- OKRs in Product Development
-- Follow-up Einhorn Kondome
+- [Apple Newsstand](http://www.poynter.org/2011/apples-upcoming-newsstand-new-subscription-terms-paint-confusing-picture-for-news-apps/135056/)
+- [Verständnis von Agile in Corporate-Umfeldern](https://www.linkedin.com/pulse/why-agile-innovation-corporate-environments-doesnt-work-deborah-nas)
+- [OKRs in Product Development](http://herbigt.com/okrs-in-product-development/)
+- [Follow-up Einhorn Kondome](https://twitter.com/EinhornBerlin/status/738291844430364672)
 - [Intro to OKRs](http://de.slideshare.net/mobile/blossom_io/okr-objectives-and-key-results-57234123?utm_content=buffer1e935&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
