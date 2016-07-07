@@ -7,7 +7,9 @@
 ## Show Notes Episode 26
 Manager vs. Technischen Experten - Leadership in Softwareentwicklung
 
-In der 26. Episode von Productish sprechen wir darüber, was eigentlich Leadership in der Softwareentwicklung ausmacht. Von Geeks, die endlich mal vor dem Vorstand präsentieren dürfen, über die unterschiedlichen Perspektiven auf Führung von vertikalen und horizontalen Kollegen bis hin zu OKRs gehen wir dabei auf so einige Themen ein
+In der 26. Episode von Productish sprechen wir darüber, was eigentlich Leadership in der Softwareentwicklung ausmacht. Von Geeks, die endlich mal vor dem Vorstand präsentieren dürfen, über die unterschiedlichen Perspektiven auf Führung von vertikalen und horizontalen Kollegen bis hin zu OKRs gehen wir dabei auf so einige Themen ein.
+
+(Bitte entschuldigt die schlechte Audioqualität zu Beginn bei Tim. Es wird nach ca. 1/3 deutlich besser!)
 
 http://productish.com/26
 
