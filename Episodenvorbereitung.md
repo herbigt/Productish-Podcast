@@ -17,6 +17,17 @@
 - Min. 5 Sterne auf iTunes geben
 
 ***
+## Vorbereitung Episode 27
+### Wie Wireframes beim Stakeholdermanagement helfen
+- **Tim A:**
+	- Lorem
+	- Ipsum
+
+- **Tim H:**
+	- Lorem
+	- Ipsum
+
+***
 ## Vorbereitung Episode 26
 ### Manager vs. Technischen Experten - Leadership in Softwareentwicklung
 
