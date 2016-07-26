@@ -24,8 +24,17 @@
 	- Ipsum
 
 - **Tim H:**
-	- Lorem
-	- Ipsum
+	- Wireframes sind Fluch und Segen zugleich
+		- Vermitteln (bei falschem Vorab-Management) zu früh noch nicht entschiedene Dinge als „fix“
+		- Sind z.T. einziges Hilfsmittel, um gemeinsames Verständnis von Ideen/Visionen zu entwickeln
+			- Jeder sitzt im Raum, erzählt seine Ideen, alle gehen raus und glauben, sie meinen das gleiche → Große Überraschung bei weiteren Designs
+	- Geben auch nicht-Designern Möglichkeit, Ideen unverbindlich zu skizzieren („Schau mal, sowas meine ich…“)
+	- „Gute“ bzw. „Moderne“ Designer trennen oft nicht mehr so viel, sondern arbeiten gleich in Sketch recht bunt/glossy —> Gefahr, dass Stakeholder & Dev Team zu viel als zu gegeben sehen --> Diskussionen um finales Design & Entscheidungen finden statt, ohne das VD Hand angelegt hat
+	- Noch wichtiger als eigentliche Wireframes ist Erwartungsmanagements durch Product vor Meeting/E-Mail, wie der folgende Arbeitsstand einzuordnen ist —> bis hin zu plakativen Stamps „NO FINAL COPY/NO FINAL VISUAL DESIGN“ im Screen
+	- Tools?
+		- Persönliche Präferenz: Omnigraffle → bleibt automatisch zu abstrakt und non-Visual
+		- Sehe aber auch viel gute Arbeit in Sketch → Gefahr, dass zu bunt
+		- Ansonsten noch Balsamiq oder Gliphy (wenig für UI geeignet)
 
 ***
 ## Vorbereitung Episode 26
