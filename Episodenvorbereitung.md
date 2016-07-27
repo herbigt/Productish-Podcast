@@ -20,8 +20,21 @@
 ## Vorbereitung Episode 27
 ### Wie Wireframes beim Stakeholdermanagement helfen
 - **Tim A:**
-	- Lorem
-	- Ipsum
+ 	- Skizzen des Systems
+		- Extrem wichtig, um überhaupt auch Diskussionen IM Team zu fokussieren
+		- Über welchen Teil reden wir überhaupt?
+		- Woher kommen welche Daten? Wer gibt wo was ein?
+		- Schnittstellen beschreiben: Welche Daten fließen von wo nach wo
+	- Wireframes
+		- In Meetings: Sofort aufhören darüber zu reden, "Wie etwas aussehen wird" oder "Wie sich etwas bedienen lassen wird"
+		- Dikussionen darüber sind aussichtslos: Differenzen in der Vorstellung zu groß
+	- Wahrnehmungsproblematik
+		- Alle denken, sie reden über das Gleiche: Tun sie aber nicht. 
+		- Solche Meetings können ewig gehen, weil man dann häufig versucht etwas zu synchronisieren, was niemals synchron sein kann
+		- System-Skizzen erzeugen zumindest da ein gleiches Verständnis
+	- Tools
+		- OmniGraffle (für hübsch und professionell)
+		- Pidoco (für Sharing mit Stakeholdern und Entwicklern)
 
 - **Tim H:**
 	- Wireframes sind Fluch und Segen zugleich
