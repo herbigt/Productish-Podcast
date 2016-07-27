@@ -1,6 +1,25 @@
 # Productish Podcast Show Notes
 
 {{TOC}}
+***
+
+## Show Notes Episode 27
+Wie Wireframes beim Stakeholdermanagement helfen
+
+Lorem Ipsum
+
+http://productish.com/27
+
+- Nikkel Blaase
+- Gregor Fraser
+- Warum wireframes in schwarz/weiss
+- [Steve Krug zu Wireframes im Nutzertest](http://www.peachpit.com/articles/article.aspx?p=1433954)
+- Omnigraffle
+- Axure
+- InVision
+- Scanbot
+- [Pidoco](https://pidoco.com/en)
+
 
 ***
 
