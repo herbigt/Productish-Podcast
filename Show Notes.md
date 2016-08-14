@@ -6,18 +6,19 @@
 ## Show Notes Episode 27
 Wie Wireframes beim Stakeholdermanagement helfen
 
-Lorem Ipsum
+In der heutigen Productish-Episode reden wir über den Einsatz, die Bedeutung sowie die Vor- und Nachteile beim Einsatz von Wireframes in der Produktentwicklung. 
+Von schwarz/weiß und funktional über rein technische Flow Charts bis hin zu „zu bunt“ und nicht finaler copy diskutieren wir unsere Erfahrungen beim Einsatz von Wireframes in Stakeholder-Meetings, Teamroutinen und Nutzertests.
 
 http://productish.com/27
 
-- Nikkel Blaase
-- Gregor Fraser
-- Warum wireframes in schwarz/weiss
+- [Nikkel Blaase](https://twitter.com/JAF_Designer)
+- [Gregor Fraser](http://www.eightohnine.com)
+- [Der beste Wireframe-Stil hat keinen Stil](http://uxmovement.com/wireframes/why-the-best-wireframe-style-is-no-style/)
 - [Steve Krug zu Wireframes im Nutzertest](http://www.peachpit.com/articles/article.aspx?p=1433954)
-- Omnigraffle
-- Axure
-- InVision
-- Scanbot
+- [Omnigraffle](https://www.omnigroup.com/omnigraffle)
+- [Axure](http://www.axure.com)
+- [InVision](https://www.invisionapp.com)
+- [Scanbot](https://scanbot.io/de/index.html)
 - [Pidoco](https://pidoco.com/en)
 
 
