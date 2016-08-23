@@ -48,7 +48,7 @@ Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“?
 
 9. Produktivität vs. „Gas geben“: Wie man sehr geschäftig wirkt, aber kaum von der Stelle kommt
 
-10. Das Reden über „wie etwas mal aussehen wird“ - ohne Wireframe machen Diskussionen keinen Sinn
+10. ~~Das Reden über „wie etwas mal aussehen wird“ - ohne Wireframe machen Diskussionen keinen Sinn~~
 
 11. Wenn Du produzierst und nicht reproduziert hast Du ein Architektur Problem
 - Gute Systemarchitektur entsteht durch klare „Zweckdefinition“
@@ -64,7 +64,7 @@ Wie entscheidet man zw. Aufwand und Business-Value?
 Entscheidungen treffen und durchhalten
 Gemeinsame Verantwortung fürs Projekt
 
-15. Warum CMS ein so schwieriges Problem ist
+15. ~~Warum CMS ein so schwieriges Problem ist~~
 Content ist ein Problem, welches zu nah an Technik, aber zu weit weg von den üblichen „Produktentwicklungstools“.
 
 16. Planbarkeit von Produktentwicklung

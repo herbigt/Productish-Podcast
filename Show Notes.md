@@ -2,6 +2,16 @@
 
 {{TOC}}
 ***
+## Show Notes Episode 28
+Warum sich so viele an CMS-Entwicklung die Zähne ausbeißen
+
+Lorem Ipsum.
+
+http://productish.com/28
+
+- [Link1](herbigt.com)
+
+***
 
 ## Show Notes Episode 27
 Wie Wireframes beim Stakeholdermanagement helfen
