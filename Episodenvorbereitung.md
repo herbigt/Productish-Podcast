@@ -18,10 +18,27 @@
 
 ***
 ## Vorbereitung Episode 28
-### Warum sich so viele an CMS-Entwicklung die Zähne ausbeißen
+### Wir haben da jetzt schon soo viel Geld investiert. - Wann ist ein Relaunch nötig?
 - **Tim A:**
-	- Lorem
-	- Ipsum
+	- Relaunches werden aus unterschiedlichen Gründen gemacht:
+		- Design veraltet
+		- UX nicht positiv genug
+		- Mitarbeiter beschweren sich
+		- Abschreibungen sind durch
+		aber: Selten aufgrund von Prozessdefiziten
+	- Im Gegenteil: Projekte werden gerade, weil sie schon zu viel Geld gekostet haben immer weiter getrieben.
+	- Beispiel: stern eMagazine / Tchibo Shopsystem
+	- Versuchung ist groß, das genau so zu machen, wenn man mittendrin steckt
+	- Druck wird immer höher das "nach so langer Zeit" doch zu Ende zu bringen
+	- "Mind the process":
+		- Auge drauf haben:
+		- Wie gehts dem Prozess?
+		- Wie gehts den Mitarbeitern? (Motivation, Purpose, ...)
+		- Wenn genug Indikatoren, dann drüber nachdenken, auch noch so teure Produkte zu relaunchen
+		- Projektrelaunch ohne Produktrelaunch ist nicht möglich, Umgekehrt schon
+	- Es gibt viele Vorteile eines Relaunches, auch von "Money-Sinks", die nicht unmittelbar offensichtlich sind:
+		- Man weiß mittlerweile genau, was man braucht. Solche Relaunches lassen sich üblicherweise viel einfacher definieren.
+		- Alle Projektbeteiligten sehen es als Chance es dieses Mal besser zu machen und sind vorsichtiger
 
 - **Tim H:**
 	- Eigene Verlagserfahrungen
@@ -41,7 +58,7 @@
 		- In Meetings: Sofort aufhören darüber zu reden, "Wie etwas aussehen wird" oder "Wie sich etwas bedienen lassen wird"
 		- Dikussionen darüber sind aussichtslos: Differenzen in der Vorstellung zu groß
 	- Wahrnehmungsproblematik
-		- Alle denken, sie reden über das Gleiche: Tun sie aber nicht. 
+		- Alle denken, sie reden über das Gleiche: Tun sie aber nicht.
 		- Solche Meetings können ewig gehen, weil man dann häufig versucht etwas zu synchronisieren, was niemals synchron sein kann
 		- System-Skizzen erzeugen zumindest da ein gleiches Verständnis
 	- Tools
@@ -69,10 +86,10 @@
 	- Anekdote: Erklären von "Apple Newsstand" vor einem Vorstand / GF-Runde
 	- Es geht bei dem Ganzen vor allem um Effizienz: Wie schnell kommt man zu Entscheidungen? Wie gut sind diese Entscheidungen?
 	- Im durchschnittlichen Unternehmen, ist ein riesiger Teil der Arbeitsprozesse digital
-	- Betrachtet man als "Führungskraft" das als "gestaltbar"? Wenn ja, wie sehr? 
+	- Betrachtet man als "Führungskraft" das als "gestaltbar"? Wenn ja, wie sehr?
 	- Oder: Ist alles nur "teuer" und kompliziert und nicht Teil der Prozessgestaltung?
 	- Aber auch: Kann ich Führungskraft noch ein Geschäft entwickeln ohne Entscheidungen über digitale Arbeitsbereiche zu treffen?
-	- Digitalgeschäft/IT: Schnell nur ein "Kostenfaktor". Kein echter Effizienzbringer. Produktentwicklung kein Wettbewerbsvorteil. 
+	- Digitalgeschäft/IT: Schnell nur ein "Kostenfaktor". Kein echter Effizienzbringer. Produktentwicklung kein Wettbewerbsvorteil.
 	- Glaube das ist im Silicon Valley anders: Hier ist "mein Produkt" = "mein Prozess" = "mein Mehrwert". Wenn ich dort Entscheidungen treffe, treffe ich "große Produktentscheidungen" und überlasse die Execution den Experten
 	- Als FK muss ich erkennen, dass "Komplexität" (IT/Produktentwicklung) zu managen ist. Details klären andere. Ich muss/darf nur "broad"-strokes vorgeben
 	- Als FK "bin ich den blöden ITlern" völlig ausgeliefert. Die wissen alles besser.
@@ -80,7 +97,7 @@
 	- Was ist wichtiger für eine Führungskraft: Fachliche Kompetenz oder gute People Management Skills? → Abhängig vom Angestellten und dessen Bedürfnissen  
 	- People Management Skills wichtiger um Bedürfnisse von Angestellten erkennen zu können
 	- Mit Trust von Angestellten in sich selber als Führungskraft ist es einfacher, fachliche Weiterentwicklung zu fördern, selbst wenn man selber nicht so tief in der Materie ist
- 
+
 
 ***
 ## Vorbereitung Episode 25
@@ -90,7 +107,7 @@
 - Ändern sich Deine Prozesse, musst Du an Deine IT denken
 - Tim A:
 	- Deine Prozesse sehen aus wie Deine IT und umgekehrt
-	- Grundsätzlich gilt für mich: Business-IT ist ein Prozess-Gestalter / Unterstützer 
+	- Grundsätzlich gilt für mich: Business-IT ist ein Prozess-Gestalter / Unterstützer
 	- Menschen sind deswegen auch so unfähig einfach neue Software anzunehmen:
 		- Bedienung ist neu und anders: Neu Lernen
 		- Aber gerade im Team: Immer der Versuch bestehende Prozesse auf eine neue Software zu applizieren
