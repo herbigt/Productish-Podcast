@@ -18,7 +18,7 @@
 
 ***
 ## Vorbereitung Episode 28
-### Wir haben da jetzt schon soo viel Geld investiert. - Wann ist ein Relaunch nötig?
+### Wann ist ein Relaunch (wirklich) nötig?
 - **Tim A:**
 	- Relaunches werden aus unterschiedlichen Gründen gemacht:
 		- Design veraltet

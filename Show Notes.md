@@ -3,7 +3,7 @@
 {{TOC}}
 ***
 ## Show Notes Episode 28
-Warum sich so viele an CMS-Entwicklung die Zähne ausbeißen
+Wann ist ein Relaunch (wirklich) nötig?
 
 Lorem Ipsum.
 
