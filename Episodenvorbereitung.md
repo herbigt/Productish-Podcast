@@ -41,9 +41,7 @@
 		- Alle Projektbeteiligten sehen es als Chance es dieses Mal besser zu machen und sind vorsichtiger
 
 - **Tim H:**
-	- Eigene Verlagserfahrungen
-	- Jahrelang customized Lösungen vs. out of the box CMSe und die große Überraschung
-	- Begreifen von Verlagshäusern als Technologieunternehmen → Resultat z.B. Vox Media in den USA, selbst entwickeltes CMS als Basis für alle Sites
+	- 
 
 ***
 ## Vorbereitung Episode 27
