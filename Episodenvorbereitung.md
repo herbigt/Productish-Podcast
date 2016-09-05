@@ -41,7 +41,9 @@
 		- Alle Projektbeteiligten sehen es als Chance es dieses Mal besser zu machen und sind vorsichtiger
 
 - **Tim H:**
-	- 
+	- Was ist eigentlich ein Relaunch?
+	- Relaunch als Allheilmittel bei manchen Verantwortlichen?
+	- Aus Produktsicht: Relaunch hat so eine große Schwere mit Stakeholder-KickOff etc., manch andere Projekte ähnlicher Größenordnung werden als „normale“ Epics behandelt und explodieren dann aufgrund von zu wenig Attention
 
 ***
 ## Vorbereitung Episode 27
