@@ -5,7 +5,8 @@
 ## Show Notes Episode 28
 Wann ist ein Relaunch (wirklich) nötig?
 
-
+Nachdem wir die epische Frage „Was ist eigentlich ein Relaunch?“ mehr oder weniger beantwortet haben, besprechen wir in dieser Episode des Productish Podcasts, wie sich Relaunches aus Technik-, Stakeholder- und Produktsicht eigentlich anfühlen.
+Darüber hinaus berichten wir von unseren eigenen relaunchenswertesten Projekten und was diese ausmachte.
 
 http://productish.com/28
 
