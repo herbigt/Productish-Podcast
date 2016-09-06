@@ -5,11 +5,17 @@
 ## Show Notes Episode 28
 Wann ist ein Relaunch (wirklich) nötig?
 
-Lorem Ipsum.
+
 
 http://productish.com/28
 
-- [Link1](herbigt.com)
+- [Der Relaunch von ZEIT Online](http://blog.zeit.de/fragen/2015/09/14/allesneu-der-relaunch-von-zeit-online/)
+- [Magazin-Relaunch](http://www.welt.de/kultur/medien/article114479112/Was-macht-eigentlich-der-neue-Stern.html)
+- [Ralf Sander](https://twitter.com/rlfsndr)
+- [WeTab Pressekonferenz](https://www.youtube.com/watch?v=7MKSgcn_8W4)
+- [Was ist das WeTab?](http://www.wetab.mobi)
+- [Ben Evans zu Capex-Ausgaben bei Amazon](http://ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
+- [Relaunch per Wikipedia](https://de.wikipedia.org/wiki/Relaunch)
 
 ***
 
