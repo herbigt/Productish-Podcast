@@ -17,6 +17,23 @@
 - Min. 5 Sterne auf iTunes geben
 
 ***
+## Vorbereitung Episode 29
+### Geschwindigkeitskontrolle für Projekte - Wie schnell bin ich eigentlich?
+- **Tim A:**
+	- Generell sind ja Frage nach "Sind wir da gut unterwegs?" und "Können wir das nicht irgendwie beschleunigen?" ein beliebtes Thema.
+	- "Sind wir schnell oder langsam" ist aber eine echt schwer zu beantwortende Frage.
+	- SCRUM bietet das Mittel der "Velocity": Das funktioniert auch recht gut. Allerdings: Immer wieder Streitpunkt, ob man "On Top"s mit einpreist oder nicht?
+	- Außerdem: Ist man schnell und effizient in seinen Meetings?
+	- Für mich: Die Frage - habe ich das Gefühl, dass alle Teammitglieder an produktiven Themen arbeiten?
+	- Der Kunde wird immer sagen, dass geht alles zu langsam / Besonders in Startups.
+	- TH: Was macht für Dich eine hohe Geschwindigkeit aus?
+	- Ich glaube es gibt eine "physikalische Maximalgeschwindigkeit". Weil: Ab eine bestimmten Menge Menschen wird der Abstimmungsaufwand so hoch, dass man nicht mehr schneller wird mit mehr Leuten
+	- Es gibt außerdem Themen, die lassen sich nicht beheben, weil sie nur von einer Person bearbeitbar sind (z.B. Projektsetup, einzelne Komponenten, die Rahmenbedindungen für das ganze Projekt vorgeben. Installation eines Datenmodells) = Schwangerenproblematik
+
+- **Tim H:**
+
+
+***
 ## Vorbereitung Episode 28
 ### Wann ist ein Relaunch (wirklich) nötig?
 - **Tim A:**
