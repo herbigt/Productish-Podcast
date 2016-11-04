@@ -26,15 +26,14 @@
 	- Außerdem: Ist man schnell und effizient in seinen Meetings?
 	- Für mich: Die Frage - habe ich das Gefühl, dass alle Teammitglieder an produktiven Themen arbeiten?
 	- Der Kunde wird immer sagen, dass geht alles zu langsam / Besonders in Startups.
-	- TH:
+	- Ich glaube es gibt eine "physikalische Maximalgeschwindigkeit". Weil: Ab eine bestimmten Menge Menschen wird der Abstimmungsaufwand so hoch, dass man nicht mehr schneller wird mit mehr Leuten
+	- Es gibt außerdem Themen, die lassen sich nicht beheben, weil sie nur von einer Person bearbeitbar sind (z.B. Projektsetup, einzelne Komponenten, die Rahmenbedingungen für das ganze Projekt vorgeben. Installation eines Datenmodells) = Schwangerenproblematik
+
+- **Tim H:**
+- TH:
 		- Was macht für Dich eine hohe Geschwindigkeit aus? 
 		- Wann sind Dir Projekte zu langsam?
 		- Welche Projekte waren das mal?
-	- Ich glaube es gibt eine "physikalische Maximalgeschwindigkeit". Weil: Ab eine bestimmten Menge Menschen wird der Abstimmungsaufwand so hoch, dass man nicht mehr schneller wird mit mehr Leuten
-	- Es gibt außerdem Themen, die lassen sich nicht beheben, weil sie nur von einer Person bearbeitbar sind (z.B. Projektsetup, einzelne Komponenten, die Rahmenbedindungen für das ganze Projekt vorgeben. Installation eines Datenmodells) = Schwangerenproblematik
-
-- **Tim H:**
-
 
 ***
 ## Vorbereitung Episode 28
