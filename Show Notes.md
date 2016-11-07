@@ -5,7 +5,7 @@
 ## Show Notes Episode 29
 Geschwindigkeitskontrolle für Projekte - Wie schnell bin ich eigentlich?
 
-Lorem Ipsum
+Kennt ihr dieses Gefühl, dass ihr in einem Projekt trotz ausreichend Manpower einfach nicht so vorankommt, wie ihr und das Upper Management euch vorstellt? Dieser Perspektive gehen wir in Productish Episode 29 auf den Grund und erklären, was Schwangere mit Softwareentwicklung  zu tun haben.
 
 http://productish.com/29
 
