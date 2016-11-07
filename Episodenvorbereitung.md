@@ -16,6 +16,9 @@
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
 
+## Vorbereitung Episode 30
+### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
+
 ***
 ## Vorbereitung Episode 29
 ### Geschwindigkeitskontrolle für Projekte - Wie schnell bin ich eigentlich?
