@@ -12,8 +12,6 @@ http://productish.com/29
 - [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c#.k9m1az10d)
 - [Why do we estimate and can we do without?](https://medium.com/xing-engineering/why-do-we-estimate-and-can-we-do-without-855c463ae31c#.qtrsxjc95)
 - [What are Story Points?](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
-- [Joachim Kurz](https://twitter.com/cocoafrog) — Teil des letzten Dev Teams von Tim —> Hallo, Joachim! :)
-- tbd
 
 ## Show Notes Episode 28
 Wann ist ein Relaunch (wirklich) nötig?
