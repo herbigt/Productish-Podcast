@@ -51,6 +51,7 @@
 	- Bücher
 		- Competing against Luck
 		- The Product Field
+		- Sprint
 	- Podcasts
 		- Exponent
 		- Online Marketing Rockstars
