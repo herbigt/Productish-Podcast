@@ -32,12 +32,14 @@
 		- [Don't make me think & Rockert Surgery made Easy - Steve Krug](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug)
 	- Podcasts
 		- [TheChangelog](https://changelog.com/podcast)
+			- [The Changelog mit Matt Mullenweg](https://changelog.com/podcast/197)
 		- [Under The Radar](https://www.relay.fm/radar)
 		- [DEBUG & ITERATE](http://www.imore.com/podcasts)
 - **Tim H:**
 	- Apps/Tools
 		- Scanbot
 		- Snapchat
+			- Spectacles
 		- Zeplin
 		- Invision
 		- Betabook
@@ -52,6 +54,7 @@
 		- kassenzone.de
 		- The Information
 		- Recode Media
+			- [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
 
 ***
 ## Vorbereitung Episode 29
