@@ -20,11 +20,22 @@
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 - **Tim A:**
 	- Apps/Tools
-		- lorem
+		- [OmniOutliner, OmniGraffle, OmniPlan](https://www.omnigroup.com)
+	        - [Sketch](https://www.sketchapp.com)
+		- [Trello mit Story-Points-Plugin](http://www.trello.com)
+		- [Slack](https://slack.com)
+		- [Skype mit Bildschirmübertragung](https://www.skype.com/de/)
+		- [Things](http://culturedcode.com/)
+		- [Airtable](https://airtable.com)
+		- [Contentful](http://contentful.com)
+		- [Pipedrive](https://www.pipedrive.com)
+		- [CodeClimate](https://codeclimate.com)
+		
 	- Bücher
 		- [Miteinander Reden - Friedemann Schulz von Thun](https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu%2Caps%2C188&crid=3JTS7GVVHY7IX)
 		- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
-		
+		- [Business Model Generation & ... You](https://www.amazon.de/s/ref=nb_sb_ss_c_1_14?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=business+model+generation&sprefix=Business+model%2Caps%2C165&crid=DPDDAHZDQYWF)
+		- [Startup mit System](https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system)
 	- Podcasts
 		- [TheChangelog](https://changelog.com/podcast)
 		- [Under The Radar](https://www.relay.fm/radar)
