@@ -36,6 +36,7 @@
 		- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
 		- [Business Model Generation & ... You](https://www.amazon.de/s/ref=nb_sb_ss_c_1_14?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=business+model+generation&sprefix=Business+model%2Caps%2C165&crid=DPDDAHZDQYWF)
 		- [Startup mit System](https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system)
+		- [Don't make me think & Rockert Surgery made Easy - Steve Krug](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug)
 	- Podcasts
 		- [TheChangelog](https://changelog.com/podcast)
 		- [Under The Radar](https://www.relay.fm/radar)
