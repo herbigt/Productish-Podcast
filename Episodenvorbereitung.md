@@ -19,12 +19,16 @@
 ## Vorbereitung Episode 30
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 - **Tim A:**
-	- Apps
+	- Apps/Tools
 		- lorem
 	- Bücher
-		- Ipsum
+		- [Miteinander Reden - Friedemann Schulz von Thun](https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu%2Caps%2C188&crid=3JTS7GVVHY7IX)
+		- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
+		
 	- Podcasts
-		- Dolo
+		- [TheChangelog](https://changelog.com/podcast)
+		- [Under The Radar](https://www.relay.fm/radar)
+		- [DEBUG & ITERATE](http://www.imore.com/podcasts)
 - **Tim H:**
 	- Apps
 		- lorem
