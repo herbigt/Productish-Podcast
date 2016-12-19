@@ -41,12 +41,22 @@
 		- [Under The Radar](https://www.relay.fm/radar)
 		- [DEBUG & ITERATE](http://www.imore.com/podcasts)
 - **Tim H:**
-	- Apps
-		- lorem
+	- Apps/Tools
+		- Scanbot
+		- Snapchat
+		- Zeplin
+		- Invision
+		- Betabook
+		- Magic Charts
 	- Bücher
-		- Ipsum
+		- Competing against Luck
+		- The Product Field
 	- Podcasts
-		- Dolo
+		- Exponent
+		- Online Marketing Rockstars
+		- kassenzone.de
+		- The Information
+		- Recode Media
 
 ***
 ## Vorbereitung Episode 29
