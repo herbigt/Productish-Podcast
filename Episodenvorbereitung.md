@@ -18,6 +18,20 @@
 
 ## Vorbereitung Episode 30
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
+- **Tim A:**
+	- Apps
+		- lorem
+	- Bücher
+		- Ipsum
+	- Podcasts
+		- Dolo
+- **Tim H:**
+	- Apps
+		- lorem
+	- Bücher
+		- Ipsum
+	- Podcasts
+		- Dolo
 
 ***
 ## Vorbereitung Episode 29
