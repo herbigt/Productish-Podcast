@@ -37,24 +37,26 @@
 		- [DEBUG & ITERATE](http://www.imore.com/podcasts)
 - **Tim H:**
 	- Apps/Tools
-		- Scanbot
-		- Snapchat
-			- Spectacles
-		- Zeplin
-		- Invision
-		- Betabook
-		- Magic Charts
+		- [Scanbot](https://scanbot.io/de/index.html)
+		- [Snapchat](https://www.snapchat.com/)
+		- [Spectacles](https://www.spectacles.com/)
+		- [Zeplin](https://zeplin.io/)
+[Invision](https://www.invisionapp.com/)
+		- [Betabook](http://www.betabook.co/)
+		- [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
 	- Bücher
-		- Competing against Luck
-		- The Product Field
-		- Sprint
+		- [Competing against Luck](http://amzn.to/2fWA3kn)
+		- [The Product Field](http://productfield.com/)
+		- [Sprint](http://amzn.to/2hUq91q)
 	- Podcasts
-		- Exponent
-		- Online Marketing Rockstars
-		- kassenzone.de
-		- The Information
-		- Recode Media
+		- [Exponent](http://exponent.fm/)
+		- [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
+		- [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
+			- [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
+		- [The Information](https://www.theinformation.com/features/The%20Information's%20411)
+		- [Recode Media](http://www.recode.net/recode-media-podcast)
 			- [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+
 
 ***
 ## Vorbereitung Episode 29

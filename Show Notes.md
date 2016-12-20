@@ -2,6 +2,56 @@
 
 {{TOC}}
 ***
+## Show Notes Episode 30
+X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
+
+In der letzten Productish-Episode in 2016 stellen wir euch unsere Favoriten aus den Bereichen Bücher, Podcasts und Apps/Tools vor, die uns dieses Jahr in der Produktentwicklung begleitet haben.
+
+http://productish.com/30
+
+**Tim Adler**
+
+- Bücher
+	- [Miteinander Reden - Friedemann Schulz von Thun](https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu%2Caps%2C188&crid=3JTS7GVVHY7IX)
+	- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
+	- [Startup mit System](https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system)
+	- [Don't make me think & Rockert Surgery made Easy - Steve Krug](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug)
+- Podcasts
+	- [TheChangelog](https://changelog.com/podcast)
+		- [The Changelog mit Matt Mullenweg](https://changelog.com/podcast/197)
+	- [Under The Radar](https://www.relay.fm/radar)
+	- [DEBUG & ITERATE](http://www.imore.com/podcasts)
+- Apps/Tools
+	- [OmniOutliner, OmniGraffle, OmniPlan](https://www.omnigroup.com)
+	- [Airtable](https://airtable.com)
+	- [Contentful](http://contentful.com)
+	- [Pipedrive](https://www.pipedrive.com)
+	- [Adobe XD](https://www.adobe.com/de/products/experience-design.html)
+
+**Tim Herbig**
+
+- Bücher
+	- [Competing against Luck](http://amzn.to/2fWA3kn)
+	- [The Product Field](http://productfield.com/)
+	- [Sprint](http://amzn.to/2hUq91q)
+- Podcasts
+	- [Exponent](http://exponent.fm/)
+	- [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
+	- [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
+		- [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
+	- [The Information](https://www.theinformation.com/features/The%20Information's%20411)
+	- [Recode Media](http://www.recode.net/recode-media-podcast)
+		- [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+- Apps/Tools
+	- [Scanbot](https://scanbot.io/de/index.html)
+	- [Snapchat](https://www.snapchat.com/)
+		- [Spectacles](https://www.spectacles.com/)
+	- [Zeplin](https://zeplin.io/)
+[Invision](https://www.invisionapp.com/)
+	- [Betabook](http://www.betabook.co/)
+	- [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
+
+
 ## Show Notes Episode 29
 Geschwindigkeitskontrolle für Projekte - Wie schnell bin ich eigentlich?
 
