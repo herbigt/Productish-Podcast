@@ -1,7 +1,16 @@
 # Productish Podcast Show Notes
 
 {{TOC}}
-***
+---- 
+## Show Notes Episode 31
+Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
+
+Lorem Ipsum.
+
+http://productish.com/31
+
+\<Links\>
+---- 
 ## Show Notes Episode 30
 X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 
@@ -12,42 +21,42 @@ http://productish.com/30
 **Tim Adler**
 
 - Bücher
-	- [Miteinander Reden - Friedemann Schulz von Thun](https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu%2Caps%2C188&crid=3JTS7GVVHY7IX)
-	- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
-	- [Startup mit System](https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system)
-	- [Don't make me think & Rockert Surgery made Easy - Steve Krug](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug)
+	- [Miteinander Reden - Friedemann Schulz von Thun][1]
+	- [Schnelles Denken, Langsames Denken][2]
+	- [Startup mit System][3]
+	- [Don't make me think & Rockert Surgery made Easy - Steve Krug][4]
 - Podcasts
-	- [TheChangelog](https://changelog.com/podcast)
-		- [The Changelog mit Matt Mullenweg](https://changelog.com/podcast/197)
-	- [Under The Radar](https://www.relay.fm/radar)
-	- [DEBUG & ITERATE](http://www.imore.com/podcasts)
+	- [TheChangelog][5]
+		- [The Changelog mit Matt Mullenweg][6]
+	- [Under The Radar][7]
+	- [DEBUG & ITERATE][8]
 - Apps/Tools
-	- [OmniOutliner, OmniGraffle, OmniPlan](https://www.omnigroup.com)
-	- [Airtable](https://airtable.com)
-	- [Contentful](http://contentful.com)
-	- [Pipedrive](https://www.pipedrive.com)
-	- [Adobe XD](https://www.adobe.com/de/products/experience-design.html)
+	- [OmniOutliner, OmniGraffle, OmniPlan][9]
+	- [Airtable][10]
+	- [Contentful][11]
+	- [Pipedrive][12]
+	- [Adobe XD][13]
 
 **Tim Herbig**
 
 - Bücher
-	- [Competing against Luck](http://amzn.to/2fWA3kn)
-	- [The Product Field](http://productfield.com/)
-	- [Sprint](http://amzn.to/2hUq91q)
+	- [Competing against Luck][14]
+	- [The Product Field][15]
+	- [Sprint][16]
 - Podcasts
-	- [Exponent](http://exponent.fm/)
-	- [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
-	- [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
-		- [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
-	- [The Information](https://www.theinformation.com/features/The%20Information's%20411)
-	- [Recode Media](http://www.recode.net/recode-media-podcast)
-		- [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+	- [Exponent][17]
+	- [Online Marketing Rockstars][18]
+	- [kassenzone.de][19]
+		- [kassenzone.de-Interview mit Simon Meyborg][20] (https://www.meyborg.co/)
+	- [The Information][21]
+	- [Recode Media][22]
+		- [Interview mit dem BuzzFeed Video-Chef][23]
 - Apps/Tools
-	- [Scanbot](https://scanbot.io/de/index.html)
-	- [Snapchat](https://www.snapchat.com/)
-		- [Spectacles](https://www.spectacles.com/)
-	- [Zeplin](https://zeplin.io/)
-[Invision](https://www.invisionapp.com/)
+	- [Scanbot][24]
+	- [Snapchat][25]
+		- [Spectacles][26]
+	- [Zeplin][27]
+[Invision][28]
 	- [Betabook](http://www.betabook.co/)
 	- [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
 
@@ -59,9 +68,9 @@ Kennt ihr dieses Gefühl, dass ihr in einem Projekt trotz ausreichend Manpower e
 
 http://productish.com/29
 
-- [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c#.k9m1az10d)
-- [Why do we estimate and can we do without?](https://medium.com/xing-engineering/why-do-we-estimate-and-can-we-do-without-855c463ae31c#.qtrsxjc95)
-- [What are Story Points?](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
+- [When story points misfire][29]
+- [Why do we estimate and can we do without?][30]
+- [What are Story Points?][31]
 
 ## Show Notes Episode 28
 Wann ist ein Relaunch (wirklich) nötig?
@@ -71,15 +80,15 @@ Darüber hinaus berichten wir von unseren eigenen relaunchenswertesten Projekten
 
 http://productish.com/28
 
-- [Der Relaunch von ZEIT Online](http://blog.zeit.de/fragen/2015/09/14/allesneu-der-relaunch-von-zeit-online/)
-- [Magazin-Relaunch](http://www.welt.de/kultur/medien/article114479112/Was-macht-eigentlich-der-neue-Stern.html)
-- [Ralf Sander](https://twitter.com/rlfsndr)
-- [WeTab Pressekonferenz](https://www.youtube.com/watch?v=7MKSgcn_8W4)
-- [Was ist das WeTab?](http://www.wetab.mobi)
-- [Ben Evans zu Capex-Ausgaben bei Amazon](http://ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
-- [Relaunch per Wikipedia](https://de.wikipedia.org/wiki/Relaunch)
+- [Der Relaunch von ZEIT Online][32]
+- [Magazin-Relaunch][33]
+- [Ralf Sander][34]
+- [WeTab Pressekonferenz][35]
+- [Was ist das WeTab?][36]
+- [Ben Evans zu Capex-Ausgaben bei Amazon][37]
+- [Relaunch per Wikipedia][38]
 
-***
+---- 
 
 ## Show Notes Episode 27
 Wie Wireframes beim Stakeholdermanagement helfen
@@ -89,18 +98,18 @@ Von schwarz/weiß und funktional über rein technische Flow Charts bis hin zu �
 
 http://productish.com/27
 
-- [Nikkel Blaase](https://twitter.com/JAF_Designer)
-- [Gregor Fraser](http://www.eightohnine.com)
-- [Der beste Wireframe-Stil hat keinen Stil](http://uxmovement.com/wireframes/why-the-best-wireframe-style-is-no-style/)
-- [Steve Krug zu Wireframes im Nutzertest](http://www.peachpit.com/articles/article.aspx?p=1433954)
-- [Omnigraffle](https://www.omnigroup.com/omnigraffle)
-- [Axure](http://www.axure.com)
-- [InVision](https://www.invisionapp.com)
-- [Scanbot](https://scanbot.io/de/index.html)
-- [Pidoco](https://pidoco.com/en)
+- [Nikkel Blaase][39]
+- [Gregor Fraser][40]
+- [Der beste Wireframe-Stil hat keinen Stil][41]
+- [Steve Krug zu Wireframes im Nutzertest][42]
+- [Omnigraffle][43]
+- [Axure][44]
+- [InVision][45]
+- [Scanbot][46]
+- [Pidoco][47]
 
 
-***
+---- 
 
 ## Show Notes Episode 26
 Manager vs. Technischen Experten - Leadership in Softwareentwicklung
@@ -111,16 +120,16 @@ In der 26. Episode von Productish sprechen wir darüber, was eigentlich Leadersh
 
 http://productish.com/26
 
-- [Apple Newsstand](http://www.poynter.org/2011/apples-upcoming-newsstand-new-subscription-terms-paint-confusing-picture-for-news-apps/135056/)
-- [Verständnis von Agile in Corporate-Umfeldern](https://www.linkedin.com/pulse/why-agile-innovation-corporate-environments-doesnt-work-deborah-nas)
-- [OKRs in Product Development](http://herbigt.com/okrs-in-product-development/)
-- [Follow-up Einhorn Kondome](https://twitter.com/EinhornBerlin/status/738291844430364672)
-- [Intro to OKRs](http://de.slideshare.net/mobile/blossom_io/okr-objectives-and-key-results-57234123?utm_content=buffer1e935&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Apple Newsstand][48]
+- [Verständnis von Agile in Corporate-Umfeldern][49]
+- [OKRs in Product Development][50]
+- [Follow-up Einhorn Kondome][51]
+- [Intro to OKRs][52]
 
 
-***
+---- 
 
-## Show Notes Episode 25 
+## Show Notes Episode 25
 Bootstrapping - Standardsoftware vs. Individualsoftware
 
 In der 25. Episode des Productish-Podcasts reden wir über die Stolpersteine von zu viel Individualisierung von Software direkt zum Start, wiederum zu hohen Switching Costs ab einer bestimmten Skalierungsstufe und der Relation von Unternehmensprozessen und der eingesetzten Software.
@@ -128,19 +137,19 @@ In dem Kontext kommen wir auch auf die Einfachheit von WooCommerce für Kondom-S
 
 http://productish.com/25
 
-- [Pipedrive](https://www.pipedrive.com/de/)
-- [Impala](http://useimpala.com)
-- [Alexander Graf](http://www.kassenzone.de)
-- [einhorn](https://einhorn.my)
-- [Philip Siefer im kassenzone.de-Interview](https://soundcloud.com/kassenzone/einhorn-kondome-mehr-kassenzonede-interview-mit-philip-siefer)
-- [lightspeed Shopsystem](https://www.lightspeedhq.de)
-- [AWS Activate](https://aws.amazon.com/de/activate/)
-- [Dropbox-Umzug von AWS](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
-- [Spotify Move to Google Cloud](http://www.forbes.com/sites/alexkonrad/2016/02/29/why-spotify-really-chose-google-cloud/#6857ef551eed)
-- [Inside Apple’s Cloud Infrastructure Troubles](https://www.theinformation.com/inside-apples-cloud-infrastructure-troubles)
-- 
+- [Pipedrive][53]
+- [Impala][54]
+- [Alexander Graf][55]
+- [einhorn][56]
+- [Philip Siefer im kassenzone.de-Interview][57]
+- [lightspeed Shopsystem][58]
+- [AWS Activate][59]
+- [Dropbox-Umzug von AWS][60]
+- [Spotify Move to Google Cloud][61]
+- [Inside Apple’s Cloud Infrastructure Troubles][62]
+\- 
 
-***
+---- 
 
 ## Show Notes Episode 24
 24: Gemeinsame Verantwortung in Projekten
@@ -150,11 +159,11 @@ In dem Kontext besprechen wir, was gemeinsame Verantwortung ausmacht, wann eine 
 
 http://productish.com/24
 
-- [Auftragsklärung](http://produktfuehrung.de/de/framework-no-9-auftragsklarung/)
-- [Tim Herbig auf Twitter](http://twitter.com/herbigt)
-- [Tim Adler auf Twitter](http://twitter.com/toadle)
+- [Auftragsklärung][63]
+- [Tim Herbig auf Twitter][64]
+- [Tim Adler auf Twitter][65]
 
-***
+---- 
 
 ## Show Notes Episode 23
 
@@ -164,18 +173,18 @@ In der heutigen Episode diskutieren wir die unterschiedlichen Auswirkungen, die 
 
 http://productish.com/23
 
-- [Startup Podcast Season 1/Episode 1](https://gimletmedia.com/episode/1-how-not-to-pitch-a-billionaire/)
-- [Startup Podcast: Dating Ring wird eine Lifestyle Company](https://gimletmedia.com/episode/dating-ring-of-fire/)
-- [qualitize.de](http://qualitize.de)
-- [Evernote auf Crunchbase](https://www.crunchbase.com/organization/evernote#/)
-- [Evernote auf Wikipedia](https://de.wikipedia.org/wiki/Evernote)
-- [Basecamp auf Crunchbase](https://www.crunchbase.com/organization/37signals#/entity)
-- [Basecamp auf Wikipedia](https://en.wikipedia.org/wiki/Basecamp_(company))
-- [RECONSIDER von DHH](https://m.signalvnoise.com/reconsider-41adf356857f#.ta6h1w3ru)
-- [Uber’s IT am seidenen Faden](http://www.businessinsider.com/ubers-technology-is-reportedly-hanging-by-a-thread-but-the-company-has-a-new-cto-to-get-it-together-2015-9?IR=T)
+- [Startup Podcast Season 1/Episode 1][66]
+- [Startup Podcast: Dating Ring wird eine Lifestyle Company][67]
+- [qualitize.de][68]
+- [Evernote auf Crunchbase][69]
+- [Evernote auf Wikipedia][70]
+- [Basecamp auf Crunchbase][71]
+- [Basecamp auf Wikipedia][72]
+- [RECONSIDER von DHH][73]
+- [Uber’s IT am seidenen Faden][74]
 
 
-***
+---- 
 
 ## Show Notes Episode 22
 
@@ -186,7 +195,7 @@ Dabei bringen wir die Perspektiven von sich gerade erst am Anfang befindlichen S
 
 http://productish.com/22
 
-***
+---- 
 
 ## Show Notes Episode 21
 
@@ -196,10 +205,10 @@ In der heutigen Productish-Episode sprechen wir über Anforderungen in der Produ
 
 http://productish.com/21
 
-- [Henning Wolf @it-agile](http://www.it-agile.de/schulungen/scrum-zertifizierung/trainer-henning-wolf/)
-- [Schnelles Denken, langsames Denken von Daniel Kahnemann](http://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3886808866/ref=sr_1_1?ie=UTF8&qid=1447876143&sr=8-1&keywords=kahnemann+schnelles+denken+langsames+denken)
+- [Henning Wolf @it-agile][75]
+- [Schnelles Denken, langsames Denken von Daniel Kahnemann][76]
 
-***
+---- 
 
 ## Show Notes Episode 20
 
@@ -214,7 +223,88 @@ Die kommenden Episoden werden ca. 1x im Monat in einem zuverlässigem Rhythmus v
 
 productish.com/20
 
-- [Spryker](http://spryker.com)
-- [Product development speed is just a feeling](http://toadle.me/2015/08/13/product-development-speed-is-just-a-feeling.html)
-- [Tim Herbig auf Twitter](http://twitter.com/herbigt)
-- [Tim Adler auf Twitter](http://twitter.com/toadle)
+- [Spryker][77]
+- [Product development speed is just a feeling][78]
+- [Tim Herbig auf Twitter][79]
+- [Tim Adler auf Twitter][80]
+
+[1]:	https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias=aps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu,aps,188&crid=3JTS7GVVHY7IX
+[2]:	https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken
+[3]:	https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system
+[4]:	https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug
+[5]:	https://changelog.com/podcast
+[6]:	https://changelog.com/podcast/197
+[7]:	https://www.relay.fm/radar
+[8]:	http://www.imore.com/podcasts
+[9]:	https://www.omnigroup.com
+[10]:	https://airtable.com
+[11]:	http://contentful.com
+[12]:	https://www.pipedrive.com
+[13]:	https://www.adobe.com/de/products/experience-design.html
+[14]:	http://amzn.to/2fWA3kn
+[15]:	http://productfield.com/
+[16]:	http://amzn.to/2hUq91q
+[17]:	http://exponent.fm/
+[18]:	http://www.onlinemarketingrockstars.de/podcast/
+[19]:	https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2
+[20]:	https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2
+[21]:	https://www.theinformation.com/features/The%20Information's%20411
+[22]:	http://www.recode.net/recode-media-podcast
+[23]:	https://overcast.fm/+F-0WfrHag
+[24]:	https://scanbot.io/de/index.html
+[25]:	https://www.snapchat.com/
+[26]:	https://www.spectacles.com/
+[27]:	https://zeplin.io/
+[28]:	https://www.invisionapp.com/
+[29]:	https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c#.k9m1az10d
+[30]:	https://medium.com/xing-engineering/why-do-we-estimate-and-can-we-do-without-855c463ae31c#.qtrsxjc95
+[31]:	https://www.mountaingoatsoftware.com/blog/what-are-story-points
+[32]:	http://blog.zeit.de/fragen/2015/09/14/allesneu-der-relaunch-von-zeit-online/
+[33]:	http://www.welt.de/kultur/medien/article114479112/Was-macht-eigentlich-der-neue-Stern.html
+[34]:	https://twitter.com/rlfsndr
+[35]:	https://www.youtube.com/watch?v=7MKSgcn_8W4
+[36]:	http://www.wetab.mobi
+[37]:	http://ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works
+[38]:	https://de.wikipedia.org/wiki/Relaunch
+[39]:	https://twitter.com/JAF_Designer
+[40]:	http://www.eightohnine.com
+[41]:	http://uxmovement.com/wireframes/why-the-best-wireframe-style-is-no-style/
+[42]:	http://www.peachpit.com/articles/article.aspx?p=1433954
+[43]:	https://www.omnigroup.com/omnigraffle
+[44]:	http://www.axure.com
+[45]:	https://www.invisionapp.com
+[46]:	https://scanbot.io/de/index.html
+[47]:	https://pidoco.com/en
+[48]:	http://www.poynter.org/2011/apples-upcoming-newsstand-new-subscription-terms-paint-confusing-picture-for-news-apps/135056/
+[49]:	https://www.linkedin.com/pulse/why-agile-innovation-corporate-environments-doesnt-work-deborah-nas
+[50]:	http://herbigt.com/okrs-in-product-development/
+[51]:	https://twitter.com/EinhornBerlin/status/738291844430364672
+[52]:	http://de.slideshare.net/mobile/blossom_io/okr-objectives-and-key-results-57234123?utm_content=buffer1e935&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[53]:	https://www.pipedrive.com/de/
+[54]:	http://useimpala.com
+[55]:	http://www.kassenzone.de
+[56]:	https://einhorn.my
+[57]:	https://soundcloud.com/kassenzone/einhorn-kondome-mehr-kassenzonede-interview-mit-philip-siefer
+[58]:	https://www.lightspeedhq.de
+[59]:	https://aws.amazon.com/de/activate/
+[60]:	http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/
+[61]:	http://www.forbes.com/sites/alexkonrad/2016/02/29/why-spotify-really-chose-google-cloud/#6857ef551eed
+[62]:	https://www.theinformation.com/inside-apples-cloud-infrastructure-troubles
+[63]:	http://produktfuehrung.de/de/framework-no-9-auftragsklarung/
+[64]:	http://twitter.com/herbigt
+[65]:	http://twitter.com/toadle
+[66]:	https://gimletmedia.com/episode/1-how-not-to-pitch-a-billionaire/
+[67]:	https://gimletmedia.com/episode/dating-ring-of-fire/
+[68]:	http://qualitize.de
+[69]:	https://www.crunchbase.com/organization/evernote#/
+[70]:	https://de.wikipedia.org/wiki/Evernote
+[71]:	https://www.crunchbase.com/organization/37signals#/entity
+[72]:	https://en.wikipedia.org/wiki/Basecamp_(company)
+[73]:	https://m.signalvnoise.com/reconsider-41adf356857f#.ta6h1w3ru
+[74]:	http://www.businessinsider.com/ubers-technology-is-reportedly-hanging-by-a-thread-but-the-company-has-a-new-cto-to-get-it-together-2015-9?IR=T
+[75]:	http://www.it-agile.de/schulungen/scrum-zertifizierung/trainer-henning-wolf/
+[76]:	http://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3886808866/ref=sr_1_1?ie=UTF8&qid=1447876143&sr=8-1&keywords=kahnemann+schnelles+denken+langsames+denken
+[77]:	http://spryker.com
+[78]:	http://toadle.me/2015/08/13/product-development-speed-is-just-a-feeling.html
+[79]:	http://twitter.com/herbigt
+[80]:	http://twitter.com/toadle
