@@ -3,7 +3,7 @@
 
 {{TOC}}
 
-***
+---- 
 
 ## Allgemeine Bestandteile
 
@@ -16,49 +16,58 @@
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
 
+---- 
+## Vorbereitung Episode 31
+### Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
+- **Tim A:**
+	- lorem
+	- ipsum
+- **Tim H:**
+	- Dolo
+---- 
 ## Vorbereitung Episode 30
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 - **Tim A:**
 	- Apps/Tools
-		- [OmniOutliner, OmniGraffle, OmniPlan](https://www.omnigroup.com)
-		- [Airtable](https://airtable.com)
-		- [Contentful](http://contentful.com)
-		- [Pipedrive](https://www.pipedrive.com)
-		- [Adobe XD](https://www.adobe.com/de/products/experience-design.html)
+		- [OmniOutliner, OmniGraffle, OmniPlan][1]
+		- [Airtable][2]
+		- [Contentful][3]
+		- [Pipedrive][4]
+		- [Adobe XD][5]
 	- Bücher
-		- [Miteinander Reden - Friedemann Schulz von Thun](https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu%2Caps%2C188&crid=3JTS7GVVHY7IX)
-		- [Schnelles Denken, Langsames Denken](https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken)
-		- [Startup mit System](https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system)
-		- [Don't make me think & Rockert Surgery made Easy - Steve Krug](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug)
+		- [Miteinander Reden - Friedemann Schulz von Thun][6]
+		- [Schnelles Denken, Langsames Denken][7]
+		- [Startup mit System][8]
+		- [Don't make me think & Rockert Surgery made Easy - Steve Krug][9]
 	- Podcasts
-		- [TheChangelog](https://changelog.com/podcast)
-			- [The Changelog mit Matt Mullenweg](https://changelog.com/podcast/197)
-		- [Under The Radar](https://www.relay.fm/radar)
-		- [DEBUG & ITERATE](http://www.imore.com/podcasts)
+		- [TheChangelog][10]
+			- [The Changelog mit Matt Mullenweg][11]
+		- [Under The Radar][12]
+		- [DEBUG & ITERATE][13]
 - **Tim H:**
 	- Apps/Tools
-		- [Scanbot](https://scanbot.io/de/index.html)
-		- [Snapchat](https://www.snapchat.com/)
-		- [Spectacles](https://www.spectacles.com/)
-		- [Zeplin](https://zeplin.io/)
-[Invision](https://www.invisionapp.com/)
-		- [Betabook](http://www.betabook.co/)
-		- [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
+		- [Scanbot][14]
+		- [Snapchat][15]
+		- [Spectacles][16]
+		- [Zeplin][17]
+[Invision][18]
+	    - [Betabook](http://www.betabook.co/)
+	    - [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
 	- Bücher
-		- [Competing against Luck](http://amzn.to/2fWA3kn)
-		- [The Product Field](http://productfield.com/)
-		- [Sprint](http://amzn.to/2hUq91q)
+	    - [Competing against Luck](http://amzn.to/2fWA3kn)
+	    - [The Product Field](http://productfield.com/)
+	    - [Sprint](http://amzn.to/2hUq91q)
 	- Podcasts
-		- [Exponent](http://exponent.fm/)
-		- [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
-		- [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
-			- [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
-		- [The Information](https://www.theinformation.com/features/The%20Information's%20411)
-		- [Recode Media](http://www.recode.net/recode-media-podcast)
-			- [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+	    - [Exponent](http://exponent.fm/)
+	    - [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
+	    - [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
+	        - [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
+	    - [The Information](https://www.theinformation.com/features/The%20Information's%20411)
+	    - [Recode Media](http://www.recode.net/recode-media-podcast)
+	        - [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
 
 
-***
+---- 
 ## Vorbereitung Episode 29
 ### Geschwindigkeitskontrolle für Projekte - Wie schnell bin ich eigentlich?
 - **Tim A:**
@@ -77,7 +86,7 @@
 		- Wann sind Dir Projekte zu langsam?
 		- Welche Projekte waren das mal?
 
-***
+---- 
 ## Vorbereitung Episode 28
 ### Wann ist ein Relaunch (wirklich) nötig?
 - **Tim A:**
@@ -106,11 +115,11 @@
 	- Relaunch als Allheilmittel bei manchen Verantwortlichen?
 	- Aus Produktsicht: Relaunch hat so eine große Schwere mit Stakeholder-KickOff etc., manch andere Projekte ähnlicher Größenordnung werden als „normale“ Epics behandelt und explodieren dann aufgrund von zu wenig Attention
 
-***
+---- 
 ## Vorbereitung Episode 27
 ### Wie Wireframes beim Stakeholdermanagement helfen
 - **Tim A:**
- 	- Skizzen des Systems
+	- Skizzen des Systems
 		- Extrem wichtig, um überhaupt auch Diskussionen IM Team zu fokussieren
 		- Über welchen Teil reden wir überhaupt?
 		- Woher kommen welche Daten? Wer gibt wo was ein?
@@ -132,14 +141,14 @@
 		- Sind z.T. einziges Hilfsmittel, um gemeinsames Verständnis von Ideen/Visionen zu entwickeln
 			- Jeder sitzt im Raum, erzählt seine Ideen, alle gehen raus und glauben, sie meinen das gleiche → Große Überraschung bei weiteren Designs
 	- Geben auch nicht-Designern Möglichkeit, Ideen unverbindlich zu skizzieren („Schau mal, sowas meine ich…“)
-	- „Gute“ bzw. „Moderne“ Designer trennen oft nicht mehr so viel, sondern arbeiten gleich in Sketch recht bunt/glossy —> Gefahr, dass Stakeholder & Dev Team zu viel als zu gegeben sehen --> Diskussionen um finales Design & Entscheidungen finden statt, ohne das VD Hand angelegt hat
-	- Noch wichtiger als eigentliche Wireframes ist Erwartungsmanagements durch Product vor Meeting/E-Mail, wie der folgende Arbeitsstand einzuordnen ist —> bis hin zu plakativen Stamps „NO FINAL COPY/NO FINAL VISUAL DESIGN“ im Screen
+	- „Gute“ bzw. „Moderne“ Designer trennen oft nicht mehr so viel, sondern arbeiten gleich in Sketch recht bunt/glossy —\> Gefahr, dass Stakeholder & Dev Team zu viel als zu gegeben sehen --\> Diskussionen um finales Design & Entscheidungen finden statt, ohne das VD Hand angelegt hat
+	- Noch wichtiger als eigentliche Wireframes ist Erwartungsmanagements durch Product vor Meeting/E-Mail, wie der folgende Arbeitsstand einzuordnen ist —\> bis hin zu plakativen Stamps „NO FINAL COPY/NO FINAL VISUAL DESIGN“ im Screen
 	- Tools?
 		- Persönliche Präferenz: Omnigraffle → bleibt automatisch zu abstrakt und non-Visual
 		- Sehe aber auch viel gute Arbeit in Sketch → Gefahr, dass zu bunt
 		- Ansonsten noch Balsamiq oder Gliphy (wenig für UI geeignet)
 
-***
+---- 
 ## Vorbereitung Episode 26
 ### Manager vs. Technischen Experten - Leadership in Softwareentwicklung
 
@@ -160,7 +169,7 @@
 	- Mit Trust von Angestellten in sich selber als Führungskraft ist es einfacher, fachliche Weiterentwicklung zu fördern, selbst wenn man selber nicht so tief in der Materie ist
 
 
-***
+---- 
 ## Vorbereitung Episode 25
 ### Bootstrapping - Standardsoftware vs. Individualsoftware
 
@@ -181,27 +190,27 @@
 	- IT wie in Internal IT aka helpdesk oder SiteOps/Architekten?
 	- Größte Start-up Fehler in Infrastruktur?
 	- Selber immer das Gefühl von zu verkopft - "noch n server hoch bei aws und fertig...oder?"
-***
+---- 
 
 ## Vorbereitung Episode 24
-### Thema: Das haben wir ja so nie gesagt**..“ - Gemeinsame Verantwortung in Projekte
+### Thema: Das haben wir ja so nie gesagt\*\*..“ - Gemeinsame Verantwortung in Projekte
 
 - **Tim A**:
-      - Klassisches Problem von vielen: Projekte kann man nicht selber umsetzen, deshalb sucht man jemand "externen". Etabliert automatisch die Auftragnehmern/Auftraggeberhaltung. Begründet "Ansprüche". Deswegen extrem schädlich
-      - Outsourcing ist nicht zeitgemäß, zumindest von der EInstellung her.
-      - Man bucht Scherpas, aber die Expedition macht man zusammen
-      - Entwicklertrick: So lange drüber reden, bis man genug Ausnahmen produziert hat, dass sich ein Feature nicht umsetzen lässt, weil zu teuer -> Keine gemeinsame VA
-      - Auftraggebertrick: So lange kleine Unsauberkeiten finden, bis man das Projekte abbrechen oder eskalieren kann
-      - Auftragnehmertrick: Jede zusätzliche Kleinigkeit als CR
-      - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?)
-      - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft Feedback: Macht Entwicklung SEHR langsam, frustriert ein Team
+	  - Klassisches Problem von vielen: Projekte kann man nicht selber umsetzen, deshalb sucht man jemand "externen". Etabliert automatisch die Auftragnehmern/Auftraggeberhaltung. Begründet "Ansprüche". Deswegen extrem schädlich
+	  - Outsourcing ist nicht zeitgemäß, zumindest von der EInstellung her.
+	  - Man bucht Scherpas, aber die Expedition macht man zusammen
+	  - Entwicklertrick: So lange drüber reden, bis man genug Ausnahmen produziert hat, dass sich ein Feature nicht umsetzen lässt, weil zu teuer -\> Keine gemeinsame VA
+	  - Auftraggebertrick: So lange kleine Unsauberkeiten finden, bis man das Projekte abbrechen oder eskalieren kann
+	  - Auftragnehmertrick: Jede zusätzliche Kleinigkeit als CR
+	  - Kann auch ein Problem sein, weil Stakeholder sich eines Entwicklungsprojekts nicht annehmen wollen: Die machen das schon? (Angst vor Unbekanntem?)
+	  - Oder: Stakeholder nehmen nicht Teil an der Entwicklung, geben aber ausschnitthaft Feedback: Macht Entwicklung SEHR langsam, frustriert ein Team
 - **Tim H**:
-	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --> Details zum Format und Entstehung
+	- Auftragsklärungsformat als Tool für Alignment vor neuen Projekten --\> Details zum Format und Entstehung
 	- Mikro- vs. Macro-Level solcher Diskussionen (Projektscope vs. Einzelne Features)
 	- Wie ist "tec" Perspektive auf diese Diskussionen?
 	- Aufgreifen/behandeln JEDES Änderungswunsches vs. Wegignorieren
 
-***
+---- 
 
 ## Vorbereitung Episode 23
 
@@ -223,7 +232,7 @@
 		- Life-Style: Kiss No Frog
 		- Life-Style: Gar kein Tech-Fokus in der Uni
 
-		- VC: Internationalisierung bauen, Apps bauen -> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
+		- VC: Internationalisierung bauen, Apps bauen -\> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
 		- Kann Entwicklung lange Zeit "lähmen", so dass sie nicht mehr "das Wichtige" tut
 		- Life-Style: Features häufig erst dann entwickelt, wenn der Kunde sie nachfragt. Daher kurzfristig, aber unmittelbar am Kunden
 		- Die "Technical Debt" wird zu spät bemerkt
@@ -234,9 +243,9 @@
 		- Auch Life-Style Companies sollten sich Attribute von VC Companies abschauen, um mittelfristig erfolgreich zu bleiben. Reines Ausruhen auf
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- Basecamp (reine Beobachtung)
-		- DatingRing aus Startup Podcast —> VC-Erwartungen nicht erfüllt, zur Lifestyle-Company geworden
+		- DatingRing aus Startup Podcast —\> VC-Erwartungen nicht erfüllt, zur Lifestyle-Company geworden
 
-***
+---- 
 
 ## Vorbereitung Episode 22
 
@@ -247,36 +256,36 @@
   - d.h. Priorisieren heißt für mich vor allem: Dinge nicht tun.
   - das scheint sehr schwer zu sein, weil die einfachste Argumentation, die auf Akzeptanz bei allen stößt ist "das eine tun, ohne das andere zu lassen"
   - schlimm wirds dann, wenn man aber nur eine Sache machen kann: Wenn da ein Startup das Falsch wählt, kann man schonmal in die Klemme kommen
-    - es gibt auch das Problem, dass man dann so viele Sachen im Produkt wichtig findet, dass man sich NUR NOCH damit beschäftigt
-    - Super Kritisch! -> Ein Startup besteht nicht nur aus dem Produkt.
-    - Darüber hinaus fehlts mir aber an Erklärung, warum das "Priorisieren" so schwer ist
-    - Viele "Erfahrerene" Produktentwickler haben kein Problem damit
+	- es gibt auch das Problem, dass man dann so viele Sachen im Produkt wichtig findet, dass man sich NUR NOCH damit beschäftigt
+	- Super Kritisch! -\> Ein Startup besteht nicht nur aus dem Produkt.
+	- Darüber hinaus fehlts mir aber an Erklärung, warum das "Priorisieren" so schwer ist
+	- Viele "Erfahrerene" Produktentwickler haben kein Problem damit
 
 - Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet
 	- Priorisierung sind der daily struggle eines PO’s. Tag ist im Prinzip voll von trade-off Entscheidungen. Vom konkreten doing im Stand-up, bis hin zu Abbiegungen in Discoveries oder Stakeholder-Diskussionen
-	- Kern einer Priorisierungsentscheidung sind „Kosten“ —> Wichtig ist immer die Kommunikation in der Horizontalen (Team) und Vertikalen (Upper Management)
+	- Kern einer Priorisierungsentscheidung sind „Kosten“ —\> Wichtig ist immer die Kommunikation in der Horizontalen (Team) und Vertikalen (Upper Management)
 	- Bin persönlich selten in klassischer Startup-Situation, aber genau dort ist es noch kritischer
-	- In Gründungsphase oft Business-minded Entscheider am Drücker für Dev Ressourcen —> Fokussiert auf Business Outcome, tendenziell eher wenig Erfahrung, wie man dorthin kommt
+	- In Gründungsphase oft Business-minded Entscheider am Drücker für Dev Ressourcen —\> Fokussiert auf Business Outcome, tendenziell eher wenig Erfahrung, wie man dorthin kommt
 	- Priorisieren ist deshalb so schwer, weil man ja **immer** alles/mehr will, weil auf den ersten Blick alles gleichwertig wichtig für den Erfolg des Produkts ist („haben ist besser als brauchen“)
 		- Wenn Prio-Entscheidung erst mal anliegt, schaut man tiefer rein und trifft manchmal sogar bessere Entscheidungen
 
 - Was ist eigentlich gemeint?
 
-***
+---- 
 
 ## Vorbereitung Episode 21
 
 ### Thema: Welchen Detailgrad brauchen Anforderungen
 
-- Position/Statement Tim A. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Zwei Extreme - 1.Vision aussprechen und dann fragen „Was kostet das?/Wie lange dauert das?“ - 2. Ewige/Verkopfte Planung in großen Unternehmen -> Keine Validerung von Anforderungen: Suchergebnislistenumsortieren/Topposition, Verkomplizieren
-- Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Formulierung des Ziels inkl. erwartetem Outcome des Epics oder der einzelnen Story - Früher Tendenz zum Aufschreiben von **allem** gehabt, jetzt mehr zurückgelehnt und Team Aufgabe lösen lassen —> Ohnehin schon genug detailierter Input von ID & VD im Ticket
+- Position/Statement Tim A. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Zwei Extreme - 1.Vision aussprechen und dann fragen „Was kostet das?/Wie lange dauert das?“ - 2. Ewige/Verkopfte Planung in großen Unternehmen -\> Keine Validerung von Anforderungen: Suchergebnislistenumsortieren/Topposition, Verkomplizieren
+- Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Formulierung des Ziels inkl. erwartetem Outcome des Epics oder der einzelnen Story - Früher Tendenz zum Aufschreiben von **allem** gehabt, jetzt mehr zurückgelehnt und Team Aufgabe lösen lassen —\> Ohnehin schon genug detailierter Input von ID & VD im Ticket
 
 - Was ist eigentlich gemeint?
 - „Fallhöhe“ bedenken: Von der Vision, zur Anforderung zur Umsetzung
 - Validieren von Anforderung
 - Bester Effizienzbringer: Anforderung ist genau dem richtigen Detailgrad
 
-***
+---- 
 
 ## Vorbereitung Episode 20
 
@@ -284,7 +293,7 @@
 
 - Position/Statement Tim A. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Underengeneering - Wordpress, Overengeneering - Algorhythmus statt manuell
 - Position/Statement Tim H. + Ein konkretes Beispiel, was man mit dem Thema verbindet: Diskssion, wie skaliebar und wiederverwertbar „etwas“ jetzt gebaut werden muss, wenn man tatsächliches Potential noch gar nicht kennt und Produkt sich erst noch beweisen muss?
-—> man kann doch gar nicht alle zukünftigen Einsatzzwecke antizipieren?
+—\> man kann doch gar nicht alle zukünftigen Einsatzzwecke antizipieren?
 
 - Was ist eigentlich gemeint?
 - Wie begegnet einem das Thema in der IT/Wie im Produktmanagement? Unterschiedliche Sichtweise auf „technical debt“
@@ -293,3 +302,22 @@
 - Der Geschwindigkeitsgraph: Die Kunst ist gleichbleibend schnell sein und nicht erst schnell, dann langsam.
 - Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“? Skalierbarkeit braucht üblicherweise eine gute Architektur. D.h. am Anfang schnell widerspricht skalierbar.
 - Paradox: Niemand würde mal schnell „husch, husch“ eine Produkt- oder Marketingstrategie definieren. Beim Coding soll das aber sein?
+
+[1]:	https://www.omnigroup.com
+[2]:	https://airtable.com
+[3]:	http://contentful.com
+[4]:	https://www.pipedrive.com
+[5]:	https://www.adobe.com/de/products/experience-design.html
+[6]:	https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias=aps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu,aps,188&crid=3JTS7GVVHY7IX
+[7]:	https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken
+[8]:	https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system
+[9]:	https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug
+[10]:	https://changelog.com/podcast
+[11]:	https://changelog.com/podcast/197
+[12]:	https://www.relay.fm/radar
+[13]:	http://www.imore.com/podcasts
+[14]:	https://scanbot.io/de/index.html
+[15]:	https://www.snapchat.com/
+[16]:	https://www.spectacles.com/
+[17]:	https://zeplin.io/
+[18]:	https://www.invisionapp.com/
