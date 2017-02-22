@@ -1,7 +1,7 @@
 
 # Productish Podcast Episodenvorbereitung
 
-{{TOC}}
+\{{TOC}}
 
 ---- 
 
@@ -20,8 +20,20 @@
 ## Vorbereitung Episode 31
 ### Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
 - **Tim A:**
-	- lorem
-	- ipsum
+	- Bedeutung von "im Auftrag": Man übernimmt als Dienstleister den Auftrag für einen externen Kunden ein Produkt zu entwickeln. Dieser Kunde möchte im Optimalfall volle Zeit-/ Kostenkontrolle haben.
+	- Bedeutung von "Inhouse": Man ist eine Entwicklungsabteilung, die an einem Produkt arbeitet, welches zur gleichen Firma gehört.
+	- Wir haben alle drei unterschiedlich viel Produktentwicklung "im Auftrag" und Inhouse gemacht.
+		- Tim H.: Erfahrung stern.de / XING / mygassi (Inhouse), Jetzt: Im Auftrag?
+		- Heide P.: Jetzt: "im Auftrag"?
+	- Welche Erfahrungen habt Ihr jeweils gemacht und wie hat sich die Produktentwicklung/Featureplanung/Involvement vom Team unterschieden?
+	- Habt Ihr unterschiedliche Vorgehen in den unterschiedlichen Situationen verwendet?
+		- Welche haben gut funktioniert? / Welche nicht? 
+		- Gab es Zwänge ein bestimmtes Vorgehen zu verwenden?
+	- Meine Theorie: Wenn man Aufträge nach draußen gibt, kann man nicht Teil von SCRUM sein - zumindest wenn man Festpreis-Angebote haben möchte. Man kann dann nur noch Stakeholder sein. Stimmt das in Euren Augen?
+	- Wie macht man SCRUM planbar, wenn man "im Auftrag" arbeitet? 
+	- Meine Theorie: Das Auftraggeber/Auftragnehmer-Verhältnis lässt den Eindruck entstehen ein klarer Budgetrahmen/Termin würde die Physik außer Kraft setzen und das Produkt könnte "bis dahin" fertig sein. Wie geht man damit um? Ist das überhaupt so?
+	- Wie unterscheidet sich das Anforderungsmanagement für Produkte Inhouse und "im Auftrag"? Ist es zwangsläufig so, dass man für einen Auftrag ein Lastenheft abgeben muss als Kunde? Was passiert, wenn ich das nicht habe? 
+		- Theorie: Ich bin bei fehlenden Lastenheft als Agentur in einer super Position, weil ich festlege, was im Auftrag enthalten ist. Ist das so?
 - **Tim H:**
 	- Dolo
 ---- 
@@ -29,42 +41,42 @@
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 - **Tim A:**
 	- Apps/Tools
-		- [OmniOutliner, OmniGraffle, OmniPlan][1]
-		- [Airtable][2]
-		- [Contentful][3]
-		- [Pipedrive][4]
-		- [Adobe XD][5]
+		- [OmniOutliner, OmniGraffle, OmniPlan]
+		- [Airtable]
+		- [Contentful]
+		- [Pipedrive]
+		- [Adobe XD]
 	- Bücher
-		- [Miteinander Reden - Friedemann Schulz von Thun][6]
-		- [Schnelles Denken, Langsames Denken][7]
-		- [Startup mit System][8]
-		- [Don't make me think & Rockert Surgery made Easy - Steve Krug][9]
+		- [Miteinander Reden - Friedemann Schulz von Thun]
+		- [Schnelles Denken, Langsames Denken]
+		- [Startup mit System]
+		- [Don't make me think & Rockert Surgery made Easy - Steve Krug]
 	- Podcasts
-		- [TheChangelog][10]
-			- [The Changelog mit Matt Mullenweg][11]
-		- [Under The Radar][12]
-		- [DEBUG & ITERATE][13]
+		- [TheChangelog]
+			- [The Changelog mit Matt Mullenweg]
+		- [Under The Radar]
+		- [DEBUG & ITERATE]
 - **Tim H:**
 	- Apps/Tools
-		- [Scanbot][14]
-		- [Snapchat][15]
-		- [Spectacles][16]
-		- [Zeplin][17]
-[Invision][18]
-	    - [Betabook](http://www.betabook.co/)
-	    - [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
-	- Bücher
-	    - [Competing against Luck](http://amzn.to/2fWA3kn)
-	    - [The Product Field](http://productfield.com/)
-	    - [Sprint](http://amzn.to/2hUq91q)
-	- Podcasts
-	    - [Exponent](http://exponent.fm/)
-	    - [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
-	    - [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
-	        - [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
-	    - [The Information](https://www.theinformation.com/features/The%20Information's%20411)
-	    - [Recode Media](http://www.recode.net/recode-media-podcast)
-	        - [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+		- [Scanbot]
+		- [Snapchat]
+		- [Spectacles]
+		- [Zeplin]
+[Invision]
+''     - [Betabook](http://www.betabook.co/)
+''     - [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
+'' - Bücher
+''     - [Competing against Luck](http://amzn.to/2fWA3kn)
+''     - [The Product Field](http://productfield.com/)
+''     - [Sprint](http://amzn.to/2hUq91q)
+'' - Podcasts
+''     - [Exponent](http://exponent.fm/)
+''     - [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
+''     - [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
+''         - [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
+''     - [The Information](https://www.theinformation.com/features/The%20Information's%20411)
+''     - [Recode Media](http://www.recode.net/recode-media-podcast)
+''         - [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
 
 
 ---- 
@@ -82,9 +94,9 @@
 
 - **Tim H:**
 - TH:
-		- Was macht für Dich eine hohe Geschwindigkeit aus? 
-		- Wann sind Dir Projekte zu langsam?
-		- Welche Projekte waren das mal?
+	'' - Was macht für Dich eine hohe Geschwindigkeit aus? 
+	'' - Wann sind Dir Projekte zu langsam?
+	'' - Welche Projekte waren das mal?
 
 ---- 
 ## Vorbereitung Episode 28
@@ -222,7 +234,7 @@
 	- Position/Statement:
 		- Produkte, die für Life-Style-Companies gebaut werden haben selten das Problem "an den Kundenwünschen vorbei" gebaut worden zu sein. Dafür haben sie schnell das Problem nicht nachhaltig entwickelt worden zu sein. Keine Tests, Schnelle Frickeleien
 		- Produkte, die unter Venture-Company-Bedingungen entwickelt werden: Sind gut in Nachhaltigkeit, aber schnell schlecht in "Kundenwünsche"-Matching
-
+	
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- VC: App-Bau
 		- VC: Internationalisierung
@@ -231,7 +243,7 @@
 		- Life-Style: "Nachbarschaftshilfe"
 		- Life-Style: Kiss No Frog
 		- Life-Style: Gar kein Tech-Fokus in der Uni
-
+		
 		- VC: Internationalisierung bauen, Apps bauen -\> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
 		- Kann Entwicklung lange Zeit "lähmen", so dass sie nicht mehr "das Wichtige" tut
 		- Life-Style: Features häufig erst dann entwickelt, wenn der Kunde sie nachfragt. Daher kurzfristig, aber unmittelbar am Kunden
@@ -302,22 +314,3 @@
 - Der Geschwindigkeitsgraph: Die Kunst ist gleichbleibend schnell sein und nicht erst schnell, dann langsam.
 - Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“? Skalierbarkeit braucht üblicherweise eine gute Architektur. D.h. am Anfang schnell widerspricht skalierbar.
 - Paradox: Niemand würde mal schnell „husch, husch“ eine Produkt- oder Marketingstrategie definieren. Beim Coding soll das aber sein?
-
-[1]:	https://www.omnigroup.com
-[2]:	https://airtable.com
-[3]:	http://contentful.com
-[4]:	https://www.pipedrive.com
-[5]:	https://www.adobe.com/de/products/experience-design.html
-[6]:	https://www.amazon.de/s/ref=nb_sb_ss_c_1_15?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias=aps&field-keywords=friedemann+schulz+von+thun&sprefix=Friedemann+schu,aps,188&crid=3JTS7GVVHY7IX
-[7]:	https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342/ref=sr_1_1?ie=UTF8&qid=1482171445&sr=8-1&keywords=schnelles+denken+langsames+denken
-[8]:	https://www.amazon.de/Startup-mit-System-erfolgreichen-Entrepreneur/dp/3960090196/ref=sr_1_1?ie=UTF8&qid=1482172106&sr=8-1&keywords=startup+mit+system
-[9]:	https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1482177902&sr=8-1&keywords=steve+krug
-[10]:	https://changelog.com/podcast
-[11]:	https://changelog.com/podcast/197
-[12]:	https://www.relay.fm/radar
-[13]:	http://www.imore.com/podcasts
-[14]:	https://scanbot.io/de/index.html
-[15]:	https://www.snapchat.com/
-[16]:	https://www.spectacles.com/
-[17]:	https://zeplin.io/
-[18]:	https://www.invisionapp.com/
