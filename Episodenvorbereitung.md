@@ -35,7 +35,13 @@
 	- Wie unterscheidet sich das Anforderungsmanagement für Produkte Inhouse und "im Auftrag"? Ist es zwangsläufig so, dass man für einen Auftrag ein Lastenheft abgeben muss als Kunde? Was passiert, wenn ich das nicht habe? 
 		- Theorie: Ich bin bei fehlenden Lastenheft als Agentur in einer super Position, weil ich festlege, was im Auftrag enthalten ist. Ist das so?
 - **Tim H:**
-	- Dolo
+	- Wichtige Learnings, die man jetzt im direkten Vergleich der Rollen hat:
+		- Stakeholder Management noch komplexer --\> internes mgmt, ext. mgmt und eigenes Team
+		- Beziehungspflege auch genau so wichtig (strong lunch game)
+		- Noch mehr Fokus auf absolut explizite Kommunikation
+		- Wenn Alignment bei internen Projekten schon wichtig ist, ist es bei extern Projekten noch wichtiger --\> Erfahrungen & Best Practices bei Heide?
+		- Interessant ist, dass man die eigene präferierte "richtige" Arbeistweise nicht einfach aufzwingen kann. Man muss abwarten und justieren, je nach Situation auf die man trifft.
+		- Die wichtigsten Personen in Projekten sind nicht immer die Entscheidungsträger, sondern mutmaßliche Leute an der Seitenlinie, die aber unheimlich viel Gehör finden --\> Wissen, wen man adressieren muss (Empathie noch größere Bedeutung)
 ---- 
 ## Vorbereitung Episode 30
 ### X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
@@ -63,20 +69,20 @@
 		- [Spectacles]
 		- [Zeplin]
 [Invision]
-''     - [Betabook](http://www.betabook.co/)
-''     - [Magic Charts](http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1%5BoverwriteDemand%5D%5Bcategories%5D=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb)
-'' - Bücher
-''     - [Competing against Luck](http://amzn.to/2fWA3kn)
-''     - [The Product Field](http://productfield.com/)
-''     - [Sprint](http://amzn.to/2hUq91q)
-'' - Podcasts
-''     - [Exponent](http://exponent.fm/)
-''     - [Online Marketing Rockstars](http://www.onlinemarketingrockstars.de/podcast/)
-''     - [kassenzone.de](https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2)
-''         - [kassenzone.de-Interview mit Simon Meyborg](https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2) (https://www.meyborg.co/)
-''     - [The Information](https://www.theinformation.com/features/The%20Information's%20411)
-''     - [Recode Media](http://www.recode.net/recode-media-podcast)
-''         - [Interview mit dem BuzzFeed Video-Chef](https://overcast.fm/+F-0WfrHag)
+\''     - [Betabook][1]
+\''     - [Magic Charts][2]
+\'' - Bücher
+\''     - [Competing against Luck][3]
+\''     - [The Product Field][4]
+\''     - [Sprint][5]
+\'' - Podcasts
+\''     - [Exponent][6]
+\''     - [Online Marketing Rockstars][7]
+\''     - [kassenzone.de][8]
+\''         - [kassenzone.de-Interview mit Simon Meyborg][9] (https://www.meyborg.co/)
+\''     - [The Information][10]
+\''     - [Recode Media][11]
+\''         - [Interview mit dem BuzzFeed Video-Chef][12]
 
 
 ---- 
@@ -94,9 +100,9 @@
 
 - **Tim H:**
 - TH:
-	'' - Was macht für Dich eine hohe Geschwindigkeit aus? 
-	'' - Wann sind Dir Projekte zu langsam?
-	'' - Welche Projekte waren das mal?
+	\'' - Was macht für Dich eine hohe Geschwindigkeit aus? 
+	\'' - Wann sind Dir Projekte zu langsam?
+	\'' - Welche Projekte waren das mal?
 
 ---- 
 ## Vorbereitung Episode 28
@@ -234,7 +240,7 @@
 	- Position/Statement:
 		- Produkte, die für Life-Style-Companies gebaut werden haben selten das Problem "an den Kundenwünschen vorbei" gebaut worden zu sein. Dafür haben sie schnell das Problem nicht nachhaltig entwickelt worden zu sein. Keine Tests, Schnelle Frickeleien
 		- Produkte, die unter Venture-Company-Bedingungen entwickelt werden: Sind gut in Nachhaltigkeit, aber schnell schlecht in "Kundenwünsche"-Matching
-	
+			 
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- VC: App-Bau
 		- VC: Internationalisierung
@@ -243,7 +249,7 @@
 		- Life-Style: "Nachbarschaftshilfe"
 		- Life-Style: Kiss No Frog
 		- Life-Style: Gar kein Tech-Fokus in der Uni
-		
+				 
 		- VC: Internationalisierung bauen, Apps bauen -\> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
 		- Kann Entwicklung lange Zeit "lähmen", so dass sie nicht mehr "das Wichtige" tut
 		- Life-Style: Features häufig erst dann entwickelt, wenn der Kunde sie nachfragt. Daher kurzfristig, aber unmittelbar am Kunden
@@ -314,3 +320,16 @@
 - Der Geschwindigkeitsgraph: Die Kunst ist gleichbleibend schnell sein und nicht erst schnell, dann langsam.
 - Wie gelingt der Spagat zw. „Schnelligkeit“ und „Skalierbarkeit“? Skalierbarkeit braucht üblicherweise eine gute Architektur. D.h. am Anfang schnell widerspricht skalierbar.
 - Paradox: Niemand würde mal schnell „husch, husch“ eine Produkt- oder Marketingstrategie definieren. Beim Coding soll das aber sein?
+
+[1]:	http://www.betabook.co/
+[2]:	http://www.legamaster.com/de/produkte/zubehoer/magic-chart/?no_cache=1&tx_legamaster_pi1[overwriteDemand][categories]=22&cP=22&cHash=8d1a459c3b35d8b90b79ff83bdead3fb
+[3]:	http://amzn.to/2fWA3kn
+[4]:	http://productfield.com/
+[5]:	http://amzn.to/2hUq91q
+[6]:	http://exponent.fm/
+[7]:	http://www.onlinemarketingrockstars.de/podcast/
+[8]:	https://itunes.apple.com/de/podcast/kassenzone/id826450058?mt=2
+[9]:	https://itunes.apple.com/de/podcast/k-120-das-parfum-des-nordens/id826450058?i=1000379130915&mt=2
+[10]:	https://www.theinformation.com/features/The%20Information's%20411
+[11]:	http://www.recode.net/recode-media-podcast
+[12]:	https://overcast.fm/+F-0WfrHag
