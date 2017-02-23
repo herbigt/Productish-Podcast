@@ -3,13 +3,19 @@
 {{TOC}}
 ---- 
 ## Show Notes Episode 31
-Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
+Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko.
 
 Lorem Ipsum.
 
 http://productish.com/31
 
-\<Links\>
+- Heide auf Twitter
+- Tim Adler auf Twitter
+- Tim Herbig auf Twitter
+- [njiuko](http://www.njiuko.com/)
+- Auftragsklärung Format für Alignment
+- [Talk von Mark Sheldon zum Relaunch von gov.uk beim Product Tank Hamburg](https://speakerdeck.com/marksheldongds/gov-dot-uk-product-tank-hamburg)
+- Tim Adler Talk bei 12min.me
 ---- 
 ## Show Notes Episode 30
 X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
