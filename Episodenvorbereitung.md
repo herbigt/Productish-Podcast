@@ -15,7 +15,32 @@
 - @herbigt auf Twitter, @toadle auf Twitter und @ProductishFM auf Twitter
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
-
+---- 
+## Vorbereitung Episode 32
+### Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
+- **Tim A:**
+	- Also CTO und Produktmanager ist man häufig einer der ersten Ansprechpartner für CEOs für Fragen wie: 
+		- Wie lange dauert das noch?
+		- Wie viele Leute brauche ich?
+		- Wann wird es fertig?
+		- Was kostet es?
+	- Produktentwicklung ist häufig schon für die handelnden Personen recht undurchsichtig, was genau passiert. 
+	- Management geht häufig immer noch von einer "Planbarkeitsprämisse" aus. 
+	- "Was brauchst Du denn?" / "Wie kriegt man das hin?" - obwohl diese Fragen häufig nicht genau zu beantworten sind. 
+	- Technische Einschränkungen haben Auswirkungen aufs Produkt
+		- Erklären über Bilder und Zeichnungen
+		- Insbesondere Systemskizzen
+			- Einfache Kästen, Pfeile, Datenfluss erklären
+			- System voneinander abgrenzen
+	- Man braucht als Produktentwickler die Diskussion mit dem Management: Vor allem, um Trade-Offs zu entscheiden.
+		- Aber: Schwierig hier die Kooperation herzustellen. Denn häufig macht der GGüber auch mal "zu", wenn die Themen unverständlich oder "zu technisch" werden.
+			- "Ich bin kein Techniker. Ich kann das nicht entscheiden."
+		- Was dann? Wenn man keine Diskussion herstellen kann, aber man weiß, dass eine eigene Entscheidung Auswirken für das gesamte Produkt hat?
+	- Was, wenn das Management primär auf Kosten entscheidet?
+		- Trade-Off immer zu gunsten von "günstig"
+	- Ist Diskussion mit dem Management überhaupt noch zeitgemäß, wenn das Team eigentlich alle Entscheidungen selber treffen können muss?
+- **Tim H:**
+	- tbd
 ---- 
 ## Vorbereitung Episode 31
 ### Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
@@ -240,7 +265,7 @@
 	- Position/Statement:
 		- Produkte, die für Life-Style-Companies gebaut werden haben selten das Problem "an den Kundenwünschen vorbei" gebaut worden zu sein. Dafür haben sie schnell das Problem nicht nachhaltig entwickelt worden zu sein. Keine Tests, Schnelle Frickeleien
 		- Produkte, die unter Venture-Company-Bedingungen entwickelt werden: Sind gut in Nachhaltigkeit, aber schnell schlecht in "Kundenwünsche"-Matching
-			 
+					  
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- VC: App-Bau
 		- VC: Internationalisierung
@@ -249,7 +274,7 @@
 		- Life-Style: "Nachbarschaftshilfe"
 		- Life-Style: Kiss No Frog
 		- Life-Style: Gar kein Tech-Fokus in der Uni
-				 
+						  
 		- VC: Internationalisierung bauen, Apps bauen -\> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
 		- Kann Entwicklung lange Zeit "lähmen", so dass sie nicht mehr "das Wichtige" tut
 		- Life-Style: Features häufig erst dann entwickelt, wenn der Kunde sie nachfragt. Daher kurzfristig, aber unmittelbar am Kunden
