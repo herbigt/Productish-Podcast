@@ -40,7 +40,13 @@
 		- Trade-Off immer zu gunsten von "günstig"
 	- Ist Diskussion mit dem Management überhaupt noch zeitgemäß, wenn das Team eigentlich alle Entscheidungen selber treffen können muss?
 - **Tim H:**
-	- tbd
+	- Wichtig ist, im Dialog mit dem Management hinter die Kulisse zu schauen
+		- Hinter jedem "wann?" steckt ein Grund, den man erkennen muss.
+		- Statt 1:1 die gefragte Antwort/Lösung zu liefern, vllt. lieber Beweggründe verstehen und (bessere) Alternativen anbieten
+	- Man ist automatisch first responder für Management
+		- Manager wird nie einzelnen Dev für Delays in Verantwortung ziehen
+		- Wie kommuniziert man diese "Last" ans Team  und was leitet man daraus ab (if at all?)
+	- Heiliger Gral ist, mit Management nicht in Features zu diskutieren, sondern Outcomes und bereitzustellenden Rahmenbedingungen --\> permanentes Alignment dieser Key Faktoren. Was noch, darüber hinaus?
 ---- 
 ## Vorbereitung Episode 31
 ### Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
@@ -265,7 +271,6 @@
 	- Position/Statement:
 		- Produkte, die für Life-Style-Companies gebaut werden haben selten das Problem "an den Kundenwünschen vorbei" gebaut worden zu sein. Dafür haben sie schnell das Problem nicht nachhaltig entwickelt worden zu sein. Keine Tests, Schnelle Frickeleien
 		- Produkte, die unter Venture-Company-Bedingungen entwickelt werden: Sind gut in Nachhaltigkeit, aber schnell schlecht in "Kundenwünsche"-Matching
-					  
 	- Beispiele/Beobachtungen aus eigener Erfahrung:
 		- VC: App-Bau
 		- VC: Internationalisierung
@@ -274,7 +279,6 @@
 		- Life-Style: "Nachbarschaftshilfe"
 		- Life-Style: Kiss No Frog
 		- Life-Style: Gar kein Tech-Fokus in der Uni
-						  
 		- VC: Internationalisierung bauen, Apps bauen -\> Interessant für Investorenpitch. Wirklich wichtig für die Geschäftsentwicklung?
 		- Kann Entwicklung lange Zeit "lähmen", so dass sie nicht mehr "das Wichtige" tut
 		- Life-Style: Features häufig erst dann entwickelt, wenn der Kunde sie nachfragt. Daher kurzfristig, aber unmittelbar am Kunden
