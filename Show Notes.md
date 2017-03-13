@@ -9,7 +9,13 @@ In dieser Episode des Productish Podcasts freuen wir uns, Lore ipsum mit.
 
 https://productish.com/episodes/32
 
-- [Ralf auf Twitter]()
+- [Ralf auf Twitter](https://twitter.com/ralfw)
+- [one man think tank](http://ralfw.de/)
+- [Clean Code Developer School](http://ccd-school.de/)
+- [Cliff Young Shuffle](https://www.youtube.com/watch?v=5WXXm-FVB58)
+- [Tim Adler auf Twitter](https://twitter.com/toadle)
+- 
+- [Tim Herbig auf Twitter](https://twitter.com/herbigt)
 
 ----
 
