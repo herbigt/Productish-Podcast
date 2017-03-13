@@ -2,6 +2,17 @@
 
 {{TOC}}
 ---- 
+## Show Notes Episode 32
+Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
+
+In dieser Episode des Productish Podcasts freuen wir uns, Lore ipsum mit.
+
+https://productish.com/episodes/32
+
+- [Ralf auf Twitter]()
+
+----
+
 ## Show Notes Episode 31
 Produktentwicklung als Auftrag vs. Inhouse - Mit Heide Peuckert, Head of Product Njiuko
 
