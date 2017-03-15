@@ -5,7 +5,7 @@
 ## Show Notes Episode 32
 Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
 
-In dieser Episode des Productish Podcasts freuen wir uns, Lore ipsum mit.
+In dieser Episode des Productish Podcasts freuen wir uns sehr, Ralf Westphal als Gast begrüßen zu dürfen. Tim Adler hörte Ralf zum ersten Mal auf den Hamburger Code Talks reden und ist seitdem großer Fan seiner Denkweise rund um das Thema Produktentwicklung. Ralf's Ziel ist es "zukunftsfähige Softwareproduktion vorzudenken, vorzuleben und vorzumachen".
 
 https://productish.com/episodes/32
 
@@ -13,8 +13,8 @@ https://productish.com/episodes/32
 - [one man think tank](http://ralfw.de/)
 - [Clean Code Developer School](http://ccd-school.de/)
 - [Cliff Young Shuffle](https://www.youtube.com/watch?v=5WXXm-FVB58)
+- [Sucht vs. Technical Debt](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/07/22/there-is-no-such-thing-as-technical-debt.aspx)
 - [Tim Adler auf Twitter](https://twitter.com/toadle)
-- 
 - [Tim Herbig auf Twitter](https://twitter.com/herbigt)
 
 ----
