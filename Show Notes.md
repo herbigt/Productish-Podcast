@@ -3,7 +3,7 @@
 {{TOC}}
 ---- 
 ## Show Notes Episode 32
-Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
+Produktentwicklung mit dem Management besprechen mit Ralf Westphal, One Man Think Tank
 
 In dieser Episode des Productish Podcasts freuen wir uns sehr, Ralf Westphal als Gast begrüßen zu dürfen. Tim Adler hörte Ralf zum ersten Mal auf den Hamburger Code Talks reden und ist seitdem großer Fan seiner Denkweise rund um das Thema Produktentwicklung. Ralf's Ziel ist es "zukunftsfähige Softwareproduktion vorzudenken, vorzuleben und vorzumachen".
 
