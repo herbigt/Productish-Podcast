@@ -2,6 +2,19 @@
 
 {{TOC}}
 ---- 
+## Show Notes Episode 33
+Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert
+
+Lorem Ipsum
+
+https://productish.com/episodes/33
+
+- [Product Episode 22: Die Unfähigkeit zu priorisieren](https://productish.com/episodes/22/)
+- [Impact Mapping Framework](https://www.impactmapping.org/)
+- [John Cutler Tweet](https://twitter.com/johncutlefish/status/881577190252466176)
+- Scott Forstall über die Entwicklung iPhone
+
+----
 ## Show Notes Episode 32
 Produktentwicklung mit dem Management besprechen mit Ralf Westphal, One Man Think Tank
 

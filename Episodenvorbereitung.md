@@ -17,7 +17,7 @@
 - Min. 5 Sterne auf iTunes geben
 ---- 
 ## Vorbereitung Episode 33
-### Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert.
+### Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert
 - ** Tim A:**
 	- Prioritäten sind das Wichtigste in der Produktentwicklung. Wissen was wichtiger ist, als etwas anderes ist essentiell. 
 		- Am besten sogar unabhängig von geschätzten Aufwänden
