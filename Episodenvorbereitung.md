@@ -34,7 +34,10 @@
 			- Meine Meinung: JA - die brauch man immer. ABER - nicht jedes Feature muss unmittelbar auf eine Metrik einzahlen. Manchmal reicht die Metrik auch als Argument
 		- Problem: Teuere Features umsetzen, wenn man mit Agenturen arbeitet?
 		- Features umsetzen, die man vorher nicht zwingend hergeleitet hat?
-
+- ** Tim H:**
+	- OKRs und Impact Mapping als Priorisierungs-Tools
+	- Häufig kommt man in Set von Produktideen rein, die nicht zur Gesamtvision der Firma passen
+	- Time, Quality und Budget reichen nicht mehr aus
 ## Vorbereitung Episode 32
 ### Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
 - **Tim A:**
