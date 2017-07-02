@@ -16,6 +16,25 @@
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
 ---- 
+## Vorbereitung Episode 33
+### Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert.
+- ** Tim A:**
+	- Prioritäten sind das Wichtigste in der Produktentwicklung. Wissen was wichtiger ist, als etwas anderes ist essentiell. 
+		- Am besten sogar unabhängig von geschätzten Aufwänden
+		- Klar: Wenn man Aufwände kennt entscheidet man häufig anders, aber wenn man Features schon ohne den Aufwand zu kennen priorisieren kann, dann sind die Aufwände nur eine Hilfe
+	- Fragestellung: Wie entscheide ich, ob ich ein gewisses Feature bauen soll?
+		- Woran: Zahlen? Messungen? Kann man überhaupt vorab eine Zahl/Metrik generieren, die bestimmte Features wichtig macht?
+		- z.B. Abbruchrate? Anzahl von Support-Requests? etc.
+	- These: Das Feature selbst kann man ohnehin immer erst hinterher beurteilen
+		- Vorab kann man nur ein Problem identifizieren und dann ein MVP-Feature umsetzen
+		- Wichtig: Eine Kernmetrik haben, die man verbessern möchte, um zu entscheiden, ob ein Feature Verbesserungen gebracht hat
+	- Frage: Was ist mit Features, die man für "User-Delight" umsetzt? Dinge einfacher machen, aber nicht unbedingt besser konvertieren lassen?
+		- Bsp: Kartenansicht umsetzen, wo auch eine Liste reicht?
+		- Muss IMMER eine Kernmetrik existieren, die man verbessern will?
+			- Meine Meinung: JA - die brauch man immer. ABER - nicht jedes Feature muss unmittelbar auf eine Metrik einzahlen. Manchmal reicht die Metrik auch als Argument
+		- Problem: Teuere Features umsetzen, wenn man mit Agenturen arbeitet?
+		- Features umsetzen, die man vorher nicht zwingend hergeleitet hat?
+
 ## Vorbereitung Episode 32
 ### Produktentwicklung erklären - Wie man mit dem Management spricht mit Ralf Westphal, One Man Think Tank
 - **Tim A:**
