@@ -5,14 +5,16 @@
 ## Show Notes Episode 33
 Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert
 
-Lorem Ipsum
+Ihr kennt die Diskussion: Jemand ist total davon überzeugt, dass genau seine Idee richtig viel Impact auf das Business oder den User Value hat. Doch wie genau priorisiert man dieses Bauchgefühl gegen eine bestehende Roadmap oder sogar KPI-basierte Anforderungen? Genau diesem Spagat widmen wir uns in dieser Episode des Productish Podcasts.
 
 https://productish.com/episodes/33
 
 - [Product Episode 22: Die Unfähigkeit zu priorisieren](https://productish.com/episodes/22/)
 - [Impact Mapping Framework](https://www.impactmapping.org/)
 - [John Cutler Tweet](https://twitter.com/johncutlefish/status/881577190252466176)
-- Scott Forstall über die Entwicklung iPhone
+- [Scott Forstall über die Entwicklung iPhone](http://www.wsj.com/video/how-the-iphone-was-born-inside-stories-of-missteps-and-triumphs/302CFE23-392D-4020-B1BD-B4B9CEF7D9A8.html)
+- [Tim Adler auf Twitter](https://twitter.com/toadle)
+- [Tim Herbig auf Twitter](https://twitter.com/herbigt)
 
 ----
 ## Show Notes Episode 32
