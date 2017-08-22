@@ -72,6 +72,6 @@ Content ist ein Problem, welches zu nah an Technik, aber zu weit weg von den üb
 
 17. ~~Design-Tools und deren Rolle in der Produktentwicklung (mit Christophe Stoll von precious)~~
 
-18. Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert.
+18. ~~Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert.~~
 
 19. Wie sehr ist technische Exzellenz Basis für ein gutes Produkt?
