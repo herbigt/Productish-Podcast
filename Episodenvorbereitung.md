@@ -15,7 +15,38 @@
 - @herbigt auf Twitter, @toadle auf Twitter und @ProductishFM auf Twitter
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
----- 
+----
+## Vorbereitung Episode 34
+### Wie wichtig ist technische Exzelenz für ein gutes Produkt?
+- ** Tim A:**
+	- Erstmal erklären, was gemeint ist?
+		- Technische Exzelenz
+			- Clean Code
+			- SingleResponsibilityPriciple
+			- Tools: 
+				- CodeClimate
+				- Rubocop
+				- Linter
+			- Einsatz moderner Technologien
+		
+	- Positiv Beispiel: Apple
+		- Neueste Technologien
+		- Sehr klare Coding-Guidelines
+		- Klare Grenzen und Wege Dinge zu tun
+		
+	- Negativ Beispiel: eBay
+		- Ständige Weiterentwicklung des schlechten Protypen
+	- Middleway Beispiel: Facebook
+		- Gutes Beispiel dafür, wie es vermutlich funktioniert:
+		- Mit schlechter Technik kommt man weiter / auch im Business-Erfolg
+		- Aber: Nur "so" weit. Gläserne Decke. Dann muss man technologisch nachrüsten
+	- Schonmal als Produktmanager erlebt, wenn man in einer "nur Refactoring"-Phase geht?
+		- Viel unproduktiver kann man nicht werden.
+	
+	
+- ** Tim H:**
+
+
 ## Vorbereitung Episode 33
 ### Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert
 - ** Tim A:**
