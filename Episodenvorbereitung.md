@@ -28,7 +28,10 @@
 				- Rubocop
 				- Linter
 			- Einsatz moderner Technologien
-		
+		- Gutes Produkt
+			- Verständliche UX
+			- Laufendes gutes Business
+			- Erfüllen von definierten Zielen
 	- Positiv Beispiel: Apple
 		- Neueste Technologien
 		- Sehr klare Coding-Guidelines
