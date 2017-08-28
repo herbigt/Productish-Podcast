@@ -17,10 +17,10 @@
 - Min. 5 Sterne auf iTunes geben
 ----
 ## Vorbereitung Episode 34
-### Wie wichtig ist technische Exzelenz für ein gutes Produkt?
+### Wie wichtig ist technische Exzellenz für ein gutes Produkt?
 - ** Tim A:**
 	- Erstmal erklären, was gemeint ist?
-		- Technische Exzelenz
+		- Technische Exzellenz
 			- Clean Code
 			- SingleResponsibilityPriciple
 			- Tools: 

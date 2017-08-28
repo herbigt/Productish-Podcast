@@ -17,6 +17,21 @@ https://productish.com/episodes/33
 - [Tim Herbig auf Twitter](https://twitter.com/herbigt)
 
 ----
+## Show Notes Episode 34
+Wie wichtig ist technische Exzellenz für ein gutes Produkt?
+
+Lorem Ipsum
+
+https://productish.com/episodes/34
+
+- CodeClimate
+- Rubocop
+- Linter
+- [Uber Technology Probleme](http://www.businessinsider.com/ubers-technology-is-reportedly-hanging-by-a-thread-but-the-company-has-a-new-cto-to-get-it-together-2015-9?IR=T)
+- [buildwith.com](http://buildwith.com)
+- [Scaling Mobile at XING](https://vimeo.com/182996436)
+
+----
 ## Show Notes Episode 32
 Produktentwicklung mit dem Management besprechen mit Ralf Westphal, One Man Think Tank
 
