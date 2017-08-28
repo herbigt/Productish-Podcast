@@ -5,7 +5,7 @@
 ## Show Notes Episode 34
 Wie wichtig ist technische Exzellenz für ein gutes Produkt?
 
-In der heutigen Ausgabe sprechen wir über die Bedeutung von technischer Exzellenz (aus methodischer und personeller Sichtweise) in der Produktentwicklung. Dabei reden wir über konkrete Tools, sowie Best und Worst Practices.
+In der heutigen Ausgabe des Productish Podcast sprechen wir über die Bedeutung von technischer Exzellenz (aus methodischer und personeller Sichtweise) in der Produktentwicklung. Dabei reden wir über konkrete Tools, sowie Best und Worst Practices.
 
 https://productish.com/episodes/34
 
