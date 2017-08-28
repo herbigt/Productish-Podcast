@@ -1,7 +1,23 @@
 # Productish Podcast Show Notes
 
 {{TOC}}
----- 
+----
+## Show Notes Episode 34
+Wie wichtig ist technische Exzellenz für ein gutes Produkt?
+
+In der heutigen Ausgabe sprechen wir über die Bedeutung von technischer Exzellenz (aus methodischer und personeller Sichtweise) in der Produktentwicklung. Dabei reden wir über konkrete Tools, sowie Best und Worst Practices.
+
+https://productish.com/episodes/34
+
+- [CodeClimate](https://codeclimate.com)
+- [Rubocop](http://batsov.com/rubocop/)
+- [Linter](https://atom.io/packages/linter)
+- [Uber Technology Probleme](http://www.businessinsider.com/ubers-technology-is-reportedly-hanging-by-a-thread-but-the-company-has-a-new-cto-to-get-it-together-2015-9?IR=T)
+- [buildwith.com](http://buildwith.com)
+- [Scaling Mobile at XING](https://vimeo.com/182996436)
+
+Wenn euch Productish so gut gefällt wie uns, freuen wir uns sehr über eine ehrliche Bewertung auf iTunes oder ein "Recommend" in Overcast (unserem eigenen Podcast Player of choice).
+----
 ## Show Notes Episode 33
 Nach Gefühl oder lieber harte Zahlen - Wie man sich Prioritäten und Aufwänden am besten nähert
 
@@ -15,21 +31,6 @@ https://productish.com/episodes/33
 - [Scott Forstall über die Entwicklung iPhone](http://www.wsj.com/video/how-the-iphone-was-born-inside-stories-of-missteps-and-triumphs/302CFE23-392D-4020-B1BD-B4B9CEF7D9A8.html)
 - [Tim Adler auf Twitter](https://twitter.com/toadle)
 - [Tim Herbig auf Twitter](https://twitter.com/herbigt)
-
-----
-## Show Notes Episode 34
-Wie wichtig ist technische Exzellenz für ein gutes Produkt?
-
-Lorem Ipsum
-
-https://productish.com/episodes/34
-
-- CodeClimate
-- Rubocop
-- Linter
-- [Uber Technology Probleme](http://www.businessinsider.com/ubers-technology-is-reportedly-hanging-by-a-thread-but-the-company-has-a-new-cto-to-get-it-together-2015-9?IR=T)
-- [buildwith.com](http://buildwith.com)
-- [Scaling Mobile at XING](https://vimeo.com/182996436)
 
 ----
 ## Show Notes Episode 32
@@ -65,7 +66,7 @@ http://productish.com/31
 - [Tim Adler Talk bei 12min.me](https://www.youtube.com/watch?v=uOSZ7q3N_Zo)
 
 Wenn euch Productish so gut gefällt wie uns, freuen wir uns sehr über eine ehrliche Bewertung auf iTunes oder ein "Recommend" in Overcast (unserem eigenen Podcast Player of choice).
----- 
+----
 ## Show Notes Episode 30
 X-Mas Edition: Tools & Eierpunsch in der Produktentwicklung
 
@@ -143,12 +144,12 @@ http://productish.com/28
 - [Ben Evans zu Capex-Ausgaben bei Amazon][37]
 - [Relaunch per Wikipedia][38]
 
----- 
+----
 
 ## Show Notes Episode 27
 Wie Wireframes beim Stakeholdermanagement helfen
 
-In der heutigen Productish-Episode reden wir über den Einsatz, die Bedeutung sowie die Vor- und Nachteile beim Einsatz von Wireframes in der Produktentwicklung. 
+In der heutigen Productish-Episode reden wir über den Einsatz, die Bedeutung sowie die Vor- und Nachteile beim Einsatz von Wireframes in der Produktentwicklung.
 Von schwarz/weiß und funktional über rein technische Flow Charts bis hin zu „zu bunt“ und nicht finaler copy diskutieren wir unsere Erfahrungen beim Einsatz von Wireframes in Stakeholder-Meetings, Teamroutinen und Nutzertests.
 
 http://productish.com/27
@@ -164,7 +165,7 @@ http://productish.com/27
 - [Pidoco][47]
 
 
----- 
+----
 
 ## Show Notes Episode 26
 Manager vs. Technischen Experten - Leadership in Softwareentwicklung
@@ -182,7 +183,7 @@ http://productish.com/26
 - [Intro to OKRs][52]
 
 
----- 
+----
 
 ## Show Notes Episode 25
 Bootstrapping - Standardsoftware vs. Individualsoftware
@@ -202,9 +203,9 @@ http://productish.com/25
 - [Dropbox-Umzug von AWS][60]
 - [Spotify Move to Google Cloud][61]
 - [Inside Apple’s Cloud Infrastructure Troubles][62]
-\- 
+\-
 
----- 
+----
 
 ## Show Notes Episode 24
 24: Gemeinsame Verantwortung in Projekten
@@ -218,7 +219,7 @@ http://productish.com/24
 - [Tim Herbig auf Twitter][64]
 - [Tim Adler auf Twitter][65]
 
----- 
+----
 
 ## Show Notes Episode 23
 
@@ -239,7 +240,7 @@ http://productish.com/23
 - [Uber’s IT am seidenen Faden][74]
 
 
----- 
+----
 
 ## Show Notes Episode 22
 
@@ -250,7 +251,7 @@ Dabei bringen wir die Perspektiven von sich gerade erst am Anfang befindlichen S
 
 http://productish.com/22
 
----- 
+----
 
 ## Show Notes Episode 21
 
@@ -263,7 +264,7 @@ http://productish.com/21
 - [Henning Wolf @it-agile][75]
 - [Schnelles Denken, langsames Denken von Daniel Kahnemann][76]
 
----- 
+----
 
 ## Show Notes Episode 20
 
