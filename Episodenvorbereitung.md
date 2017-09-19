@@ -16,6 +16,14 @@
 - Webseite angucken für die kommenden Folgen/Themen
 - Min. 5 Sterne auf iTunes geben
 ----
+## Vorbereitung Episode 35
+### Wie Product Thinking und Agile Entwicklung zusammenspielen
+- **Tim A:**
+- **Tim H:**
+    - Intro Nikkel
+    - Was ist Product Thinking?
+
+----
 ## Vorbereitung Episode 34
 ### Wie wichtig ist technische Exzellenz für ein gutes Produkt?
 - ** Tim A:**
