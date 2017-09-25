@@ -2,6 +2,24 @@
 
 {{TOC}}
 ----
+## Show Notes Episode 35
+Der Einfluss von Product Thinking auf Discovery and Delivery Prozesse mit Nikkel Blaase, Product Designer bei XING
+
+In der heutigen Ausgabe des Productish Podcasts ist Nikkel Blaase zu Gast. Nikkel ist Product Designer bei XING und diskutiert mit uns, wie das Mindset 'Product Thinking' die Entwicklungsprozesse rund um Discovery und Delivery von neuen Produkten nachhaltig beeinflusst.
+
+https://productish.com/episodes/35
+
+- [Nikkel auf Twitter](https://twitter.com/JAF_Designer)
+- [Nikkel's Artikel zu Product Thinking](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe)
+	- [Nikkel's Talk auf dem Product Management Festival](https://vimeo.com/193079519)
+- [Nikkel's Unstuck Map](http://www.designmadeforyou.com/unstuck-map.html)
+- [John Cutler über Feature Factories](https://www.mindtheproduct.com/2017/08/break-free-feature-factory-john-cutler/)
+- [Martin Eriksson zur Definition eines Produktmanagers](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)
+- [Tim Adler auf Twitter](https://twitter.com/toadle)
+- [Tim Herbig auf Twitter](https://twitter.com/herbigt)
+
+Wenn euch Productish so gut gefällt wie uns, freuen wir uns sehr über eine ehrliche Bewertung auf iTunes oder ein "Recommend" in Overcast (unserem eigenen Podcast Player of choice).
+----
 ## Show Notes Episode 34
 Wie wichtig ist technische Exzellenz für ein gutes Produkt?
 
